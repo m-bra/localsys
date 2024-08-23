@@ -1,0 +1,1163 @@
+[2024-08-22 12:42:55.067] [140362867116736] [Info] Log started
+[2024-08-22 12:42:55.067] [140362867116736] [Info] TopTracker 1.6.2 (build 6524) [production]
+[2024-08-22 12:42:55.067] [140362867116736] [Info] Qt version: 5.12.1
+[2024-08-22 12:42:55.077] [140362867116736] [Info] OS: Linux Mint 21.2 x86_64 (linux 5.15.0-118-generic)
+[2024-08-22 12:42:55.077] [140362867116736] [Info] Application executable: /opt/toptracker/bin/TopTracker
+[2024-08-22 12:42:55.097] [140362867116736] [Info] Number of screens: 1, virtual desktop: NO
+                                                   Screen 1: eDP-1, (0,0), 2560x1600@24, DPI: 113.599, DPR: 2
+[2024-08-22 12:42:55.204] [140362867116736] [Info] Available memory: 128593920 bytes (122.64MB), total memory: 8221220864 bytes (7.66GB)
+[2024-08-22 12:42:55.207] [140362867116736] [Info] Primary disk report:
+                                                   Name: 
+                                                   Path: /
+                                                   Is read-only: NO
+                                                   File system type: ext4
+                                                   Size: 53.17GB
+                                                   Available size: 2.64GB
+                                                   Total free space: 5.38GB
+[2024-08-22 12:42:55.207] [140362867116736] [Info] Environment variables:
+                                                   QT_AUTO_SCREEN_SCALE_FACTOR: 1
+[2024-08-22 12:42:55.207] [140362867116736] [Info] Log file: /home/mbrandt/.local/share/TopTracker/application.log
+[2024-08-22 12:42:55.207] [140362867116736] [Info] Previous log file: 
+[2024-08-22 12:42:55.208] [140362867116736] [Info] Settings file: /home/mbrandt/.config/TopTracker/settings.ini
+[2024-08-22 12:42:55.208] [140362867116736] [Info] Minidump directory: /home/mbrandt/.local/share/TopTracker/minidumps
+[2024-08-22 12:42:55.208] [140362867116736] [Info] Local storage directory: /home/mbrandt/.local/share/TopTracker
+[2024-08-22 12:42:55.208] [140362867116736] [Info] Breakpad processor URL: https://breakpad-processor.herokuapp.com/report
+[2024-08-22 12:42:56.475] [140362867116736] [Info] Default browser info:
+                                                   $BROWSER: <empty>
+                                                   update-alternatives --display x-www-browser: /usr/bin/google-chrome-stable
+                                                   xdg-settings get default-web-browser: firefox.desktop
+[2024-08-22 12:42:56.481] [140362867116736] [Info] Database path: /home/mbrandt/.local/share/TopTracker/TopTracker.db
+[2024-08-22 12:42:56.713] [140362867116736] [Info] API Server URL: https://tracker-api.toptal.com
+[2024-08-22 12:42:56.715] [140362867116736] [Info] Resetting proxy server
+[2024-08-22 12:42:57.096] [140362867116736] [Info] Sparkle Appcast URL: https://tracker-api.toptal.com
+[2024-08-22 12:42:57.096] [140362867116736] [Info] Internet connection detected
+[2024-08-22 12:42:57.320] [140362867116736] [Info] Uploading file to S3
+                                                   ID: 1808648407
+                                                   Upload attempt: 1
+                                                   Starting upload...
+[2024-08-22 12:42:57.690] [140362867116736] [Info] Starting GUI
+[2024-08-22 12:42:58.173] [140362867116736] [Info] Showing login dialog
+[2024-08-22 12:42:58.346] [140362867116736] [Info] Logging in automatically using saved credentials (request id: 1467020889)
+[2024-08-22 12:42:58.360] [140362867116736] [Info] Uploading file to S3
+                                                   ID: 1292024824
+                                                   Upload attempt: 1
+                                                   Starting upload...
+[2024-08-22 12:42:59.255] [140362867116736] [Info] File upload to S3 finished
+                                                   ID: 1808648407
+                                                   Success: YES
+                                                   Download URL: https://toptracker-dev.s3.amazonaws.com/desktop/logs/merlin.brandt%40hotmail.de/emails.txt
+                                                   Error description: (None)
+[2024-08-22 12:42:59.373] [140362867116736] [Info] File upload to S3 finished
+                                                   ID: 1292024824
+                                                   Success: YES
+                                                   Download URL: https://toptracker-dev.s3.amazonaws.com/desktop/logs/merlin.brandt%40hotmail.de/2024-08-22_10-42-57.log.gz
+                                                   Error description: (None)
+[2024-08-22 12:42:59.428] [140362867116736] [Info] Logged in successfully (user id: 361170, request id: 1467020889)
+[2024-08-22 12:42:59.434] [140362867116736] [Info] Logged in, about to show main window
+[2024-08-22 12:42:59.547] [140362867116736] [Info] Setting main window dimensions: 455 x 593
+[2024-08-22 12:43:00.680] [140362867116736] [Info] Showing main window
+[2024-08-22 12:43:00.797] [140362867116736] [Info] Sending initial get project list request
+[2024-08-22 12:43:00.802] [140362867116736] [Info] Getting project list from the server (request id: 110154860)
+[2024-08-22 12:43:00.852] [140362867116736] [Info] Loading last entered descriptions for projects for the user: merlin.brandt@hotmail.de
+[2024-08-22 12:43:00.853] [140362867116736] [Info] Closing login dialog
+[2024-08-22 12:43:00.853] [140362867116736] [Info] Closing login dialog
+[2024-08-22 12:43:00.854] [140362867116736] [Info] Closing login dialog
+[2024-08-22 12:43:00.866] [140362867116736] [Info] Loaded 9 activities from database for user Merlin Brandt (merlin.brandt@hotmail.de)
+                                                   1819935941
+                                                   1524567443
+                                                   1179072841
+                                                   985011779
+                                                   445250635
+                                                   1317475018
+                                                   825719545
+                                                   435552867
+                                                   347876172
+[2024-08-22 12:43:00.882] [140362867116736] [Info] Loading project list cache
+[2024-08-22 12:43:00.885] [140362867116736] [Info] Reading work log from database
+[2024-08-22 12:43:00.903] [140362867116736] [Info] Work log:
+                                                   project id: 1145774, last worked: 2024-08-20T22:36:49, seconds: 13864
+[2024-08-22 12:43:00.903] [140362867116736] [Info] Loading snapshot storage from database
+[2024-08-22 12:43:00.903] [140362867116736] [Info] Loading blobs storage from database
+[2024-08-22 12:43:00.956] [140362867116736] [Info] Checking for pending snapshot uploads
+[2024-08-22 12:43:00.958] [140362867116736] [Info] Downloading user's avatar (request id: 115688818)
+[2024-08-22 12:43:01.012] [140362867116736] [Info] Performing after sign in routine
+[2024-08-22 12:43:01.015] [140362867116736] [Info] Removing orphaned activities...
+[2024-08-22 12:43:01.121] [140362867116736] [Info] Removed 9 activities:
+                                                   1819935941
+                                                   1524567443
+                                                   1179072841
+                                                   985011779
+                                                   445250635
+                                                   1317475018
+                                                   825719545
+                                                   435552867
+                                                   347876172
+[2024-08-22 12:43:01.122] [140362867116736] [Info] Removing orphaned snapshots...
+[2024-08-22 12:43:01.123] [140362867116736] [Info] Checking storage for left over object from the previous session
+[2024-08-22 12:43:01.139] [140362867116736] [Info] Application is online
+[2024-08-22 12:43:01.248] [140362867116736] [Info] Project list received from the server (request id: 110154860, list size: 1)
+                                                   IDs: 1145774
+[2024-08-22 12:43:01.294] [140362704217664] [Info] Checking for data to send to the server
+[2024-08-22 12:43:01.490] [140362867116736] [Info] Failed to download user's avatar (request id: 115688818)
+[2024-08-22 12:43:09.281] [140362867116736] [Info] Getting last entered description for project 1145774 ("wgsl: introduce sampler_comparison type")
+[2024-08-22 12:43:09.281] [140362867116736] [Info] Starting tracking with last activity: 'wgsl: introduce sampler_comparison type', project id: 1145774
+[2024-08-22 12:43:09.281] [140362867116736] [Info] Tracking start requested (project id: 1145774)
+[2024-08-22 12:43:09.281] [140362867116736] [Info] Creating backup of settings:
+Allow screenshots: true
+Screenshots interval: 15 minutes
+Randomized tracking: false
+Track keyboard hits: true
+Track mouse clicks: true
+[2024-08-22 12:43:09.282] [140362867116736] [Info] Setting option 'take-screenshots' to 'true'
+[2024-08-22 12:43:09.289] [140362867116736] [Info] Setting option 'tracking-interval' to '15'
+[2024-08-22 12:43:09.290] [140362867116736] [Info] Setting option 'randomized-tracking' to 'false'
+[2024-08-22 12:43:09.352] [140362867116736] [Info] Setting option 'track-keyboard-hits' to 'true'
+[2024-08-22 12:43:09.352] [140362867116736] [Info] Setting option 'track-mouse-clicks' to 'true'
+[2024-08-22 12:43:09.352] [140362867116736] [Info] Applying tracking requirements:
+Allow screenshots: true
+Screenshots interval: 15 minutes
+Randomized tracking: false
+Track keyboard hits: true
+Track mouse clicks: true
+[2024-08-22 12:43:09.352] [140362867116736] [Info] Tracking started (project id: 1145774)
+[2024-08-22 12:43:09.352] [140362867116736] [Info] Updating last worked time for a project in the work log:
+                                                   project id: 1145774, last worked: 2024-08-22T12:43:09, seconds: 0
+[2024-08-22 12:43:09.354] [140362867116736] [Info] Saving work log to local storage
+[2024-08-22 12:43:09.366] [140362867116736] [Info] Started monitoring keyboard and mouse for clicks. Keyboard hits 0, mouse hits 0
+[2024-08-22 12:43:09.366] [140362867116736] [Info] Started monitoring for idle state
+[2024-08-22 12:43:09.517] [140362867116736] [Info] Getting last entered description for project 1145774 ("wgsl: introduce sampler_comparison type")
+[2024-08-22 12:43:09.732] [140362867116736] [Info] Activity window position: 758, 28 (relative position: 0.296094, 0.0175), dimensions: 522 x 160, screen: 0
+[2024-08-22 12:43:09.733] [140362867116736] [Info] Getting last entered description for project 1145774 ("wgsl: introduce sampler_comparison type")
+[2024-08-22 12:43:09.752] [140362867116736] [Info] Showing update activity description dialog at tracking start
+[2024-08-22 12:43:09.774] [140362867116736] [Info] Activity window position: 758, 28 (relative position: 0.296094, 0.0175), dimensions: 522 x 164, screen: 0
+[2024-08-22 12:43:09.780] [140362867116736] [Info] Getting last entered description for project 1145774 ("wgsl: introduce sampler_comparison type")
+[2024-08-22 12:43:09.797] [140362867116736] [Info] Sending usage statistics: UI Control Interacted, type: Button, title: Main Window Start Tracking
+[2024-08-22 12:43:09.799] [140362704217664] [Info] Checking for data to send to the server
+[2024-08-22 12:43:09.799] [140362704217664] [Info] Sent create activity request (id: 17570645), activity id: 962121657, [Do. Aug. 22 12:43:09 2024 - Do. Aug. 22 12:43:09 2024], activity API id: 0, description: "wgsl: introduce sampler_comparison type", last changed: Do. Aug. 22 12:43:09 2024, last synced: never, offline: 0, keys: -1, clicks: -1
+[2024-08-22 12:43:10.680] [140362704217664] [Info] Received API id 141034987 for activity 962121657, request id: 17570645
+[2024-08-22 12:44:09.493] [140362867116736] [Info] Service timeout, updating activity end time (id: 962121657)
+[2024-08-22 12:44:09.494] [140362867116736] [Info] Keyboard hits: 12
+[2024-08-22 12:44:09.494] [140362867116736] [Info] Mouse clicks: 4
+[2024-08-22 12:44:58.600] [140362867116736] [Info] Sending usage statistics: UI Control Interacted, type: Shortcut, title: Change Activity Description
+[2024-08-22 12:44:58.601] [140362867116736] [Info] Showing update activity description dialog invoked via hotkey
+[2024-08-22 12:44:58.633] [140362867116736] [Info] Activity window position: 758, 28 (relative position: 0.296094, 0.0175), dimensions: 522 x 168, screen: 0
+[2024-08-22 12:45:09.678] [140362867116736] [Info] Service timeout, updating activity end time (id: 962121657)
+[2024-08-22 12:45:09.678] [140362867116736] [Info] Keyboard hits: 24
+[2024-08-22 12:45:09.678] [140362867116736] [Info] Mouse clicks: 6
+[2024-08-22 12:45:14.008] [140362867116736] [Info] Tracking stop requested (project id: 1145774)
+[2024-08-22 12:45:14.010] [140362867116736] [Info] Sending usage statistics: Time Tracked
+[2024-08-22 12:45:14.011] [140362867116736] [Info] Updating last worked time for a project in the work log:
+                                                   project id: 1145774, last worked: 2024-08-22T12:45:14, seconds: 124
+[2024-08-22 12:45:14.029] [140362867116736] [Info] Saving work log to local storage
+[2024-08-22 12:45:14.031] [140362867116736] [Info] Tracking start requested (project id: 1145774)
+[2024-08-22 12:45:14.032] [140362867116736] [Info] Creating backup of settings:
+Allow screenshots: true
+Screenshots interval: 15 minutes
+Randomized tracking: false
+Track keyboard hits: true
+Track mouse clicks: true
+[2024-08-22 12:45:14.032] [140362867116736] [Info] Adding activity description "implement static shadow" for project 1145774 to storage
+[2024-08-22 12:45:14.033] [140362867116736] [Info] Tracking started (project id: 1145774)
+[2024-08-22 12:45:14.033] [140362867116736] [Info] Updating last worked time for a project in the work log:
+                                                   project id: 1145774, last worked: 2024-08-22T12:45:14, seconds: 124
+[2024-08-22 12:45:14.045] [140362867116736] [Info] Saving work log to local storage
+[2024-08-22 12:45:14.046] [140362867116736] [Info] Started monitoring for idle state
+[2024-08-22 12:45:14.054] [140362867116736] [Info] Showing update activity description dialog at tracking start
+[2024-08-22 12:45:14.054] [140362867116736] [Info] Activity window position: 758, 28 (relative position: 0.296094, 0.0175), dimensions: 522 x 168, screen: 0
+[2024-08-22 12:45:14.081] [140362867116736] [Info] Closing update activity description dialog
+[2024-08-22 12:45:14.082] [140362867116736] [Info] Sending usage statistics: UI Control Interacted, type: Button, title: Select Auto Complete Line
+[2024-08-22 12:45:14.083] [140362867116736] [Info] Sending usage statistics: UI Control Interacted, type: Button, title: Auto Complete Line
+[2024-08-22 12:45:14.092] [140362704217664] [Info] Checking for data to send to the server
+[2024-08-22 12:45:14.092] [140362704217664] [Info] Sent update activity request (id: 2043999607), activity id: 962121657, [Do. Aug. 22 12:43:09 2024 - Do. Aug. 22 12:45:14 2024], activity API id: 141034987, description: "wgsl: introduce sampler_comparison type", last changed: Do. Aug. 22 12:45:14 2024, last synced: Do. Aug. 22 12:43:09 2024, offline: 0, keys: 24, clicks: 6
+[2024-08-22 12:45:14.096] [140362704217664] [Info] Sent create activity request (id: 1916303459), activity id: 1893082416, [Do. Aug. 22 12:45:14 2024 - Do. Aug. 22 12:45:14 2024], activity API id: 0, description: "implement static shadow", last changed: Do. Aug. 22 12:45:14 2024, last synced: never, offline: 0, keys: -1, clicks: -1
+[2024-08-22 12:45:14.527] [140362704217664] [Info] Activity update request successful (id: 962121657, request id: 2043999607, type: 1)
+[2024-08-22 12:45:14.637] [140362704217664] [Info] Received API id 141035129 for activity 1893082416, request id: 1916303459
+[2024-08-22 12:46:14.078] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 12:46:14.079] [140362867116736] [Info] Keyboard hits: 25
+[2024-08-22 12:46:14.079] [140362867116736] [Info] Mouse clicks: 8
+[2024-08-22 12:47:14.278] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 12:47:14.279] [140362867116736] [Info] Keyboard hits: 25
+[2024-08-22 12:47:14.279] [140362867116736] [Info] Mouse clicks: 14
+[2024-08-22 12:48:14.479] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 12:48:14.479] [140362867116736] [Info] Keyboard hits: 25
+[2024-08-22 12:48:14.479] [140362867116736] [Info] Mouse clicks: 14
+[2024-08-22 12:49:14.678] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 12:49:14.680] [140362867116736] [Info] Keyboard hits: 25
+[2024-08-22 12:49:14.681] [140362867116736] [Info] Mouse clicks: 15
+[2024-08-22 12:50:14.879] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 12:50:14.880] [140362867116736] [Info] Keyboard hits: 25
+[2024-08-22 12:50:14.883] [140362867116736] [Info] Mouse clicks: 15
+[2024-08-22 12:51:14.881] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 12:51:14.881] [140362867116736] [Info] Keyboard hits: 25
+[2024-08-22 12:51:14.881] [140362867116736] [Info] Mouse clicks: 19
+[2024-08-22 12:52:15.078] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 12:52:15.078] [140362867116736] [Info] Keyboard hits: 25
+[2024-08-22 12:52:15.079] [140362867116736] [Info] Mouse clicks: 31
+[2024-08-22 12:53:00.878] [140362867116736] [Info] Polling project list
+[2024-08-22 12:53:00.879] [140362867116736] [Info] Getting project list from the server (request id: 1420957380)
+[2024-08-22 12:53:01.088] [140362867116736] [Info] Project list received from the server (request id: 1420957380, list size: 1)
+                                                   IDs: 1145774
+[2024-08-22 12:53:15.081] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 12:53:15.081] [140362867116736] [Info] Keyboard hits: 34
+[2024-08-22 12:53:15.082] [140362867116736] [Info] Mouse clicks: 40
+[2024-08-22 12:54:15.278] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 12:54:15.279] [140362867116736] [Info] Keyboard hits: 73
+[2024-08-22 12:54:15.281] [140362867116736] [Info] Mouse clicks: 50
+[2024-08-22 12:55:14.039] [140362867116736] [Info] Reminding user to enter activity description at timed interval
+[2024-08-22 12:55:14.072] [140362867116736] [Info] Showing update activity description reminder dialog
+[2024-08-22 12:55:14.190] [140362867116736] [Info] Activity window position: 758, 28 (relative position: 0.296094, 0.0175), dimensions: 522 x 168, screen: 0
+[2024-08-22 12:55:14.204] [140362867116736] [Info] Getting last entered description for project 1145774 ("implement static shadow")
+[2024-08-22 12:55:15.478] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 12:55:15.478] [140362867116736] [Info] Keyboard hits: 73
+[2024-08-22 12:55:15.478] [140362867116736] [Info] Mouse clicks: 50
+[2024-08-22 12:56:15.682] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 12:56:15.683] [140362867116736] [Info] Keyboard hits: 73
+[2024-08-22 12:56:15.685] [140362867116736] [Info] Mouse clicks: 62
+[2024-08-22 12:57:15.878] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 12:57:15.878] [140362867116736] [Info] Keyboard hits: 76
+[2024-08-22 12:57:15.878] [140362867116736] [Info] Mouse clicks: 66
+[2024-08-22 12:58:16.078] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 12:58:16.078] [140362867116736] [Info] Keyboard hits: 76
+[2024-08-22 12:58:16.078] [140362867116736] [Info] Mouse clicks: 70
+[2024-08-22 13:00:14.078] [140362867116736] [Info] Making new snapshot at tracking interval
+[2024-08-22 13:00:14.107] [140362867116736] [Info] Keyboard hits: 105
+[2024-08-22 13:00:14.108] [140362867116736] [Info] Mouse clicks: 80
+[2024-08-22 13:00:14.111] [140362730264128] [Info] Capturing screenshot...
+[2024-08-22 13:00:14.111] [140362730264128] [Info] Taking individual screenshot of screen #0 - (size: 2560x1600+0+0, DPR 2)
+[2024-08-22 13:00:14.178] [140362704217664] [Info] Checking for data to send to the server
+[2024-08-22 13:00:14.182] [140362704217664] [Info] Sent update activity request (id: 1173610241), activity id: 1893082416, [Do. Aug. 22 12:45:14 2024 - Do. Aug. 22 13:00:14 2024], activity API id: 141035129, description: "implement static shadow", last changed: Do. Aug. 22 13:00:14 2024, last synced: Do. Aug. 22 12:45:14 2024, offline: 0, keys: 105, clicks: 80
+[2024-08-22 13:00:14.347] [140362730264128] [Info] Combining screenshots: rendering screenshot 2560x1600 to canvas 2560x1600+0+0)
+[2024-08-22 13:00:14.486] [140362730264128] [Info] Screenshot of screen #1 captured (size: 2560x1600@32, DPR: 1, blur: NO)
+[2024-08-22 13:00:14.512] [140362704217664] [Info] Activity update request successful (id: 1893082416, request id: 1173610241, type: 1)
+[2024-08-22 13:00:14.999] [140362730264128] [Info] Final screenshot captured (total size: 2560x1600@32, DPR: 1, all displays: YES, blur: NO)
+[2024-08-22 13:00:15.277] [140362867116736] [Info] Showing review window
+[2024-08-22 13:00:16.483] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 13:00:16.483] [140362867116736] [Info] Keyboard hits: 105
+[2024-08-22 13:00:16.483] [140362867116736] [Info] Mouse clicks: 80
+[2024-08-22 13:00:19.451] [140362867116736] [Info] Snapshot 1 approved by the user
+[2024-08-22 13:00:19.451] [140362867116736] [Info] Uploading snapshot 1 screenshot to S3
+[2024-08-22 13:00:19.481] [140362867116736] [Info] Uploading file to S3
+                                                   ID: 1171360226
+                                                   Upload attempt: 1
+                                                   Starting upload...
+[2024-08-22 13:00:19.484] [140362867116736] [Info] Closing review window
+[2024-08-22 13:00:21.214] [140362867116736] [Info] File upload to S3 finished
+                                                   ID: 1171360226
+                                                   Success: YES
+                                                   Download URL: https://toptracker.s3.amazonaws.com/uploads/b0c24b38abc20740cf15ea0683a561a5c9f7290c.PNG
+                                                   Error description: (None)
+[2024-08-22 13:00:21.215] [140362867116736] [Info] Sending create image request, id: 1, activity API id: 141035129, blur: 0, randomized: 0, type: screenshot, taken at: 2024-08-22T13:00:14+02:00
+[2024-08-22 13:00:21.622] [140362867116736] [Info] Image request 1 (screenshot) handled with code 204
+[2024-08-22 13:00:21.623] [140362867116736] [Info] Removing snapshot with id: 1, activity id: 1893082416, state: 9, screenshotState: 11, camerashotState: 1
+[2024-08-22 13:01:16.678] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 13:01:16.678] [140362867116736] [Info] Keyboard hits: 108
+[2024-08-22 13:01:16.678] [140362867116736] [Info] Mouse clicks: 84
+[2024-08-22 13:02:16.878] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 13:02:16.878] [140362867116736] [Info] Keyboard hits: 112
+[2024-08-22 13:02:16.879] [140362867116736] [Info] Mouse clicks: 88
+[2024-08-22 13:03:17.080] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 13:03:17.081] [140362867116736] [Info] Keyboard hits: 125
+[2024-08-22 13:03:17.082] [140362867116736] [Info] Mouse clicks: 98
+[2024-08-22 13:04:17.280] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 13:04:17.280] [140362867116736] [Info] Keyboard hits: 126
+[2024-08-22 13:04:17.281] [140362867116736] [Info] Mouse clicks: 108
+[2024-08-22 13:05:14.261] [140362867116736] [Info] Reminding user to enter activity description at timed interval
+[2024-08-22 13:05:14.261] [140362867116736] [Info] Showing update activity description reminder dialog
+[2024-08-22 13:05:14.277] [140362867116736] [Info] Activity window position: 758, 28 (relative position: 0.296094, 0.0175), dimensions: 522 x 50, screen: 0
+[2024-08-22 13:05:14.278] [140362867116736] [Info] Getting last entered description for project 1145774 ("implement static shadow")
+[2024-08-22 13:05:17.480] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 13:05:17.481] [140362867116736] [Info] Keyboard hits: 129
+[2024-08-22 13:05:17.481] [140362867116736] [Info] Mouse clicks: 110
+[2024-08-22 13:06:17.679] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 13:06:17.679] [140362867116736] [Info] Keyboard hits: 129
+[2024-08-22 13:06:17.680] [140362867116736] [Info] Mouse clicks: 112
+[2024-08-22 13:07:17.878] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 13:07:17.879] [140362867116736] [Info] Keyboard hits: 129
+[2024-08-22 13:07:17.879] [140362867116736] [Info] Mouse clicks: 114
+[2024-08-22 13:08:18.078] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 13:08:18.078] [140362867116736] [Info] Keyboard hits: 129
+[2024-08-22 13:08:18.078] [140362867116736] [Info] Mouse clicks: 117
+[2024-08-22 13:09:18.278] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 13:09:18.278] [140362867116736] [Info] Keyboard hits: 140
+[2024-08-22 13:09:18.278] [140362867116736] [Info] Mouse clicks: 124
+[2024-08-22 13:10:18.478] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 13:10:18.478] [140362867116736] [Info] Keyboard hits: 142
+[2024-08-22 13:10:18.478] [140362867116736] [Info] Mouse clicks: 124
+[2024-08-22 13:11:18.679] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 13:11:18.679] [140362867116736] [Info] Keyboard hits: 142
+[2024-08-22 13:11:18.679] [140362867116736] [Info] Mouse clicks: 128
+[2024-08-22 13:12:18.879] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 13:12:18.879] [140362867116736] [Info] Keyboard hits: 142
+[2024-08-22 13:12:18.880] [140362867116736] [Info] Mouse clicks: 134
+[2024-08-22 13:13:19.078] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 13:13:19.079] [140362867116736] [Info] Keyboard hits: 142
+[2024-08-22 13:13:19.079] [140362867116736] [Info] Mouse clicks: 141
+[2024-08-22 13:15:14.262] [140362867116736] [Info] Reminding user to enter activity description at timed interval
+[2024-08-22 13:15:14.262] [140362867116736] [Info] Showing update activity description reminder dialog
+[2024-08-22 13:15:14.275] [140362867116736] [Info] Activity window position: 758, 28 (relative position: 0.296094, 0.0175), dimensions: 522 x 50, screen: 0
+[2024-08-22 13:15:14.276] [140362867116736] [Info] Getting last entered description for project 1145774 ("implement static shadow")
+[2024-08-22 13:15:14.278] [140362867116736] [Info] Making new snapshot at tracking interval
+[2024-08-22 13:15:14.280] [140362867116736] [Info] Keyboard hits: 143
+[2024-08-22 13:15:14.280] [140362867116736] [Info] Mouse clicks: 153
+[2024-08-22 13:15:14.283] [140362730264128] [Info] Capturing screenshot...
+[2024-08-22 13:15:14.289] [140362730264128] [Info] Taking individual screenshot of screen #0 - (size: 2560x1600+0+0, DPR 2)
+[2024-08-22 13:15:14.344] [140362704217664] [Info] Checking for data to send to the server
+[2024-08-22 13:15:14.345] [140362704217664] [Info] Sent update activity request (id: 721287181), activity id: 1893082416, [Do. Aug. 22 12:45:14 2024 - Do. Aug. 22 13:15:14 2024], activity API id: 141035129, description: "implement static shadow", last changed: Do. Aug. 22 13:15:14 2024, last synced: Do. Aug. 22 13:00:14 2024, offline: 0, keys: 143, clicks: 153
+[2024-08-22 13:15:14.443] [140362730264128] [Info] Combining screenshots: rendering screenshot 2560x1600 to canvas 2560x1600+0+0)
+[2024-08-22 13:15:14.536] [140362730264128] [Info] Screenshot of screen #1 captured (size: 2560x1600@32, DPR: 1, blur: NO)
+[2024-08-22 13:15:14.725] [140362704217664] [Info] Activity update request successful (id: 1893082416, request id: 721287181, type: 1)
+[2024-08-22 13:15:14.989] [140362730264128] [Info] Final screenshot captured (total size: 2560x1600@32, DPR: 1, all displays: YES, blur: NO)
+[2024-08-22 13:15:14.996] [140362867116736] [Info] Showing review window
+[2024-08-22 13:15:16.666] [140362867116736] [Info] Snapshot 2 approved by the user
+[2024-08-22 13:15:16.666] [140362867116736] [Info] Uploading snapshot 2 screenshot to S3
+[2024-08-22 13:15:16.670] [140362867116736] [Info] Uploading file to S3
+                                                   ID: 2061380299
+                                                   Upload attempt: 1
+                                                   Starting upload...
+[2024-08-22 13:15:16.671] [140362867116736] [Info] Closing review window
+[2024-08-22 13:15:16.673] [140362867116736] [Info] Sending usage statistics: UI Control Interacted, type: Button, title: Accept Snapshot
+[2024-08-22 13:15:18.007] [140362867116736] [Info] File upload to S3 finished
+                                                   ID: 2061380299
+                                                   Success: YES
+                                                   Download URL: https://toptracker.s3.amazonaws.com/uploads/d152bbef993fe7bc33514558de511bd2615ea3e0.PNG
+                                                   Error description: (None)
+[2024-08-22 13:15:18.009] [140362867116736] [Info] Sending create image request, id: 2, activity API id: 141035129, blur: 0, randomized: 0, type: screenshot, taken at: 2024-08-22T13:15:14+02:00
+[2024-08-22 13:15:18.232] [140362867116736] [Info] Image request 2 (screenshot) handled with code 204
+[2024-08-22 13:15:18.235] [140362867116736] [Info] Removing snapshot with id: 2, activity id: 1893082416, state: 9, screenshotState: 11, camerashotState: 1
+[2024-08-22 13:15:19.479] [140362867116736] [Info] Service timeout, updating activity end time (id: 1893082416)
+[2024-08-22 13:15:19.480] [140362867116736] [Info] Keyboard hits: 143
+[2024-08-22 13:15:19.481] [140362867116736] [Info] Mouse clicks: 155
+[2024-08-22 13:16:00.879] [140362867116736] [Info] Polling project list
+[2024-08-22 13:16:00.879] [140362867116736] [Info] Getting project list from the server (request id: 80851587)
+[2024-08-22 13:16:01.084] [140362867116736] [Info] Project list received from the server (request id: 80851587, list size: 1)
+                                                   IDs: 1145774
+[2024-08-22 13:16:02.426] [140362867116736] [Info] Tracking stop requested (project id: 1145774)
+[2024-08-22 13:16:02.426] [140362867116736] [Info] Sending usage statistics: Time Tracked
+[2024-08-22 13:16:02.426] [140362867116736] [Info] Updating last worked time for a project in the work log:
+                                                   project id: 1145774, last worked: 2024-08-22T13:16:02, seconds: 1972
+[2024-08-22 13:16:02.428] [140362867116736] [Info] Saving work log to local storage
+[2024-08-22 13:16:02.428] [140362867116736] [Info] Tracking start requested (project id: 1145774)
+[2024-08-22 13:16:02.428] [140362867116736] [Info] Creating backup of settings:
+Allow screenshots: true
+Screenshots interval: 15 minutes
+Randomized tracking: false
+Track keyboard hits: true
+Track mouse clicks: true
+[2024-08-22 13:16:02.428] [140362867116736] [Info] Adding activity description "wgsl: introduce sampler_comparison type" for project 1145774 to storage
+[2024-08-22 13:16:02.428] [140362867116736] [Info] Tracking started (project id: 1145774)
+[2024-08-22 13:16:02.428] [140362867116736] [Info] Updating last worked time for a project in the work log:
+                                                   project id: 1145774, last worked: 2024-08-22T13:16:02, seconds: 1972
+[2024-08-22 13:16:02.428] [140362867116736] [Info] Saving work log to local storage
+[2024-08-22 13:16:02.428] [140362867116736] [Info] Started monitoring for idle state
+[2024-08-22 13:16:02.439] [140362867116736] [Info] Showing update activity description dialog at tracking start
+[2024-08-22 13:16:02.439] [140362867116736] [Info] Activity window position: 758, 28 (relative position: 0.296094, 0.0175), dimensions: 522 x 168, screen: 0
+[2024-08-22 13:16:02.448] [140362867116736] [Info] Closing update activity description dialog
+[2024-08-22 13:16:02.448] [140362867116736] [Info] Sending usage statistics: UI Control Interacted, type: Button, title: Select Auto Complete Line
+[2024-08-22 13:16:02.448] [140362867116736] [Info] Sending usage statistics: UI Control Interacted, type: Button, title: Auto Complete Line
+[2024-08-22 13:16:02.482] [140362704217664] [Info] Checking for data to send to the server
+[2024-08-22 13:16:02.482] [140362704217664] [Info] Sent create activity request (id: 101096970), activity id: 809121207, [Do. Aug. 22 13:16:02 2024 - Do. Aug. 22 13:16:02 2024], activity API id: 0, description: "wgsl: introduce sampler_comparison type", last changed: Do. Aug. 22 13:16:02 2024, last synced: never, offline: 0, keys: -1, clicks: -1
+[2024-08-22 13:16:02.485] [140362704217664] [Info] Sent update activity request (id: 968944616), activity id: 1893082416, [Do. Aug. 22 12:45:14 2024 - Do. Aug. 22 13:16:02 2024], activity API id: 141035129, description: "implement static shadow", last changed: Do. Aug. 22 13:16:02 2024, last synced: Do. Aug. 22 13:15:14 2024, offline: 0, keys: 143, clicks: 155
+[2024-08-22 13:16:02.765] [140362704217664] [Info] Received API id 141037802 for activity 809121207, request id: 101096970
+[2024-08-22 13:16:02.943] [140362704217664] [Info] Activity update request successful (id: 1893082416, request id: 968944616, type: 1)
+[2024-08-22 13:17:02.477] [140362867116736] [Info] Service timeout, updating activity end time (id: 809121207)
+[2024-08-22 13:17:02.478] [140362867116736] [Info] Keyboard hits: 209
+[2024-08-22 13:17:02.478] [140362867116736] [Info] Mouse clicks: 176
+[2024-08-22 13:18:02.704] [140362867116736] [Info] Service timeout, updating activity end time (id: 809121207)
+[2024-08-22 13:18:02.705] [140362867116736] [Info] Keyboard hits: 209
+[2024-08-22 13:18:02.712] [140362867116736] [Info] Mouse clicks: 183
+[2024-08-22 13:19:02.896] [140362867116736] [Info] Service timeout, updating activity end time (id: 809121207)
+[2024-08-22 13:19:02.897] [140362867116736] [Info] Keyboard hits: 210
+[2024-08-22 13:19:02.898] [140362867116736] [Info] Mouse clicks: 183
+[2024-08-22 13:20:03.079] [140362867116736] [Info] Service timeout, updating activity end time (id: 809121207)
+[2024-08-22 13:20:03.080] [140362867116736] [Info] Keyboard hits: 210
+[2024-08-22 13:20:03.080] [140362867116736] [Info] Mouse clicks: 183
+[2024-08-22 13:21:03.278] [140362867116736] [Info] Service timeout, updating activity end time (id: 809121207)
+[2024-08-22 13:21:03.279] [140362867116736] [Info] Keyboard hits: 215
+[2024-08-22 13:21:03.279] [140362867116736] [Info] Mouse clicks: 206
+[2024-08-22 13:22:03.478] [140362867116736] [Info] Service timeout, updating activity end time (id: 809121207)
+[2024-08-22 13:22:03.478] [140362867116736] [Info] Keyboard hits: 216
+[2024-08-22 13:22:03.479] [140362867116736] [Info] Mouse clicks: 210
+[2024-08-22 13:23:03.680] [140362867116736] [Info] Service timeout, updating activity end time (id: 809121207)
+[2024-08-22 13:23:03.680] [140362867116736] [Info] Keyboard hits: 216
+[2024-08-22 13:23:03.681] [140362867116736] [Info] Mouse clicks: 216
+[2024-08-22 13:23:31.414] [140362867116736] [Info] Sending usage statistics: UI Control Interacted, type: Shortcut, title: Change Activity Description
+[2024-08-22 13:23:31.427] [140362867116736] [Info] Showing update activity description dialog invoked via hotkey
+[2024-08-22 13:23:31.446] [140362867116736] [Info] Activity window position: 758, 28 (relative position: 0.296094, 0.0175), dimensions: 522 x 168, screen: 0
+[2024-08-22 13:23:31.466] [140362867116736] [Info] Getting last entered description for project 1145774 ("wgsl: introduce sampler_comparison type")
+[2024-08-22 13:23:51.604] [140362867116736] [Info] Tracking stop requested (project id: 1145774)
+[2024-08-22 13:23:51.605] [140362867116736] [Info] Sending usage statistics: Time Tracked
+[2024-08-22 13:23:51.607] [140362867116736] [Info] Updating last worked time for a project in the work log:
+                                                   project id: 1145774, last worked: 2024-08-22T13:23:51, seconds: 2441
+[2024-08-22 13:23:51.646] [140362867116736] [Info] Saving work log to local storage
+[2024-08-22 13:23:51.648] [140362867116736] [Info] Tracking start requested (project id: 1145774)
+[2024-08-22 13:23:51.649] [140362867116736] [Info] Creating backup of settings:
+Allow screenshots: true
+Screenshots interval: 15 minutes
+Randomized tracking: false
+Track keyboard hits: true
+Track mouse clicks: true
+[2024-08-22 13:23:51.649] [140362867116736] [Info] Adding activity description "(continue) adding shadow bindgroup" for project 1145774 to storage
+[2024-08-22 13:23:51.649] [140362867116736] [Info] Tracking started (project id: 1145774)
+[2024-08-22 13:23:51.649] [140362867116736] [Info] Updating last worked time for a project in the work log:
+                                                   project id: 1145774, last worked: 2024-08-22T13:23:51, seconds: 2441
+[2024-08-22 13:23:51.657] [140362867116736] [Info] Saving work log to local storage
+[2024-08-22 13:23:51.657] [140362867116736] [Info] Started monitoring for idle state
+[2024-08-22 13:23:51.688] [140362867116736] [Info] Showing update activity description dialog at tracking start
+[2024-08-22 13:23:51.688] [140362867116736] [Info] Activity window position: 758, 28 (relative position: 0.296094, 0.0175), dimensions: 522 x 50, screen: 0
+[2024-08-22 13:23:51.711] [140362867116736] [Info] Sending usage statistics: UI Control Interacted, type: Shortcut, title: Accept Activity Description
+[2024-08-22 13:23:51.712] [140362867116736] [Info] Closing update activity description dialog
+[2024-08-22 13:23:51.715] [140362704217664] [Info] Checking for data to send to the server
+[2024-08-22 13:23:51.721] [140362704217664] [Info] Sent create activity request (id: 1879162653), activity id: 687024907, [Do. Aug. 22 13:23:51 2024 - Do. Aug. 22 13:23:51 2024], activity API id: 0, description: "(continue) adding shadow bindgroup", last changed: Do. Aug. 22 13:23:51 2024, last synced: never, offline: 0, keys: -1, clicks: -1
+[2024-08-22 13:23:51.723] [140362704217664] [Info] Sent update activity request (id: 1498609060), activity id: 809121207, [Do. Aug. 22 13:16:02 2024 - Do. Aug. 22 13:23:51 2024], activity API id: 141037802, description: "wgsl: introduce sampler_comparison type", last changed: Do. Aug. 22 13:23:51 2024, last synced: Do. Aug. 22 13:16:02 2024, offline: 0, keys: 216, clicks: 216
+[2024-08-22 13:23:52.111] [140362704217664] [Info] Received API id 141038399 for activity 687024907, request id: 1879162653
+[2024-08-22 13:23:52.158] [140362704217664] [Info] Activity update request successful (id: 809121207, request id: 1498609060, type: 1)
+[2024-08-22 13:24:51.679] [140362867116736] [Info] Service timeout, updating activity end time (id: 687024907)
+[2024-08-22 13:24:51.679] [140362867116736] [Info] Keyboard hits: 285
+[2024-08-22 13:24:51.679] [140362867116736] [Info] Mouse clicks: 216
+[2024-08-22 13:25:51.878] [140362867116736] [Info] Service timeout, updating activity end time (id: 687024907)
+[2024-08-22 13:25:51.878] [140362867116736] [Info] Keyboard hits: 285
+[2024-08-22 13:25:51.879] [140362867116736] [Info] Mouse clicks: 216
+[2024-08-22 13:26:00.879] [140362867116736] [Info] Polling project list
+[2024-08-22 13:26:00.879] [140362867116736] [Info] Getting project list from the server (request id: 270035816)
+[2024-08-22 13:26:01.045] [140362867116736] [Info] Project list received from the server (request id: 270035816, list size: 1)
+                                                   IDs: 1145774
+[2024-08-22 13:26:52.078] [140362867116736] [Info] Service timeout, updating activity end time (id: 687024907)
+[2024-08-22 13:26:52.079] [140362867116736] [Info] Keyboard hits: 285
+[2024-08-22 13:26:52.079] [140362867116736] [Info] Mouse clicks: 216
+[2024-08-22 13:27:30.404] [140362867116736] [Info] Sending usage statistics: UI Control Interacted, type: Shortcut, title: Change Activity Description
+[2024-08-22 13:27:30.405] [140362867116736] [Info] Showing update activity description dialog invoked via hotkey
+[2024-08-22 13:27:30.409] [140362867116736] [Info] Activity window position: 758, 28 (relative position: 0.296094, 0.0175), dimensions: 522 x 122, screen: 0
+[2024-08-22 13:27:30.413] [140362867116736] [Info] Getting last entered description for project 1145774 ("(continue) adding shadow bindgroup")
+[2024-08-22 13:27:32.507] [140362867116736] [Info] Sending usage statistics: UI Control Interacted, type: Shortcut, title: Cancel Activity Description
+[2024-08-22 13:27:32.507] [140362867116736] [Info] Closing update activity description dialog
+[2024-08-22 13:27:33.949] [140362867116736] [Info] Sending usage statistics: UI Control Interacted, type: Shortcut, title: Stop Tracking
+[2024-08-22 13:27:33.950] [140362867116736] [Info] Tracking stop requested (project id: 1145774)
+[2024-08-22 13:27:33.950] [140362867116736] [Info] Sending usage statistics: Time Tracked
+[2024-08-22 13:27:33.951] [140362867116736] [Info] Updating last worked time for a project in the work log:
+                                                   project id: 1145774, last worked: 2024-08-22T13:27:33, seconds: 2663
+[2024-08-22 13:27:33.953] [140362867116736] [Info] Saving work log to local storage
+[2024-08-22 13:27:33.953] [140362867116736] [Info] Tracking stopped (project id: 1145774)
+[2024-08-22 13:27:33.954] [140362867116736] [Info] Keyboard hits: 291
+[2024-08-22 13:27:33.954] [140362867116736] [Info] Mouse clicks: 216
+[2024-08-22 13:27:33.960] [140362867116736] [Info] Setting option 'tracking-interval' to '15'
+[2024-08-22 13:27:33.965] [140362867116736] [Info] Setting option 'take-screenshots' to 'true'
+[2024-08-22 13:27:33.965] [140362867116736] [Info] Updating settings backup of "Allow screenshots" to true
+[2024-08-22 13:27:33.966] [140362867116736] [Info] Setting option 'randomized-tracking' to 'false'
+[2024-08-22 13:27:34.027] [140362867116736] [Info] Setting option 'track-keyboard-hits' to 'true'
+[2024-08-22 13:27:34.035] [140362867116736] [Info] Stopped input monitoring for clicks. Keyboard hits 292, mouse hits 216
+[2024-08-22 13:27:34.036] [140362867116736] [Info] Started monitoring keyboard and mouse for clicks. Keyboard hits 292, mouse hits 216
+[2024-08-22 13:27:34.036] [140362867116736] [Info] Setting option 'track-mouse-clicks' to 'true'
+[2024-08-22 13:27:34.087] [140362867116736] [Info] Stopped input monitoring for clicks. Keyboard hits 292, mouse hits 216
+[2024-08-22 13:27:34.088] [140362867116736] [Info] Started monitoring keyboard and mouse for clicks. Keyboard hits 292, mouse hits 216
+[2024-08-22 13:27:34.140] [140362867116736] [Info] Stopped input monitoring for clicks. Keyboard hits 292, mouse hits 216
+[2024-08-22 13:27:34.140] [140362867116736] [Info] Stopped monitoring for idle state
+[2024-08-22 13:27:34.144] [140362867116736] [Info] Getting last entered description for project 1145774 ("(continue) adding shadow bindgroup")
+[2024-08-22 13:27:34.146] [140362704217664] [Info] Checking for data to send to the server
+[2024-08-22 13:27:34.146] [140362704217664] [Info] Sent update activity request (id: 1371237795), activity id: 687024907, [Do. Aug. 22 13:23:51 2024 - Do. Aug. 22 13:27:33 2024], activity API id: 141038399, description: "(continue) adding shadow bindgroup", last changed: Do. Aug. 22 13:27:33 2024, last synced: Do. Aug. 22 13:23:51 2024, offline: 0, keys: 291, clicks: 216
+[2024-08-22 13:27:34.411] [140362704217664] [Info] Activity update request successful (id: 687024907, request id: 1371237795, type: 1)
+[2024-08-22 13:30:09.798] [140362867116736] [Info] Sending usage statistics: UI Control Interacted, type: Shortcut, title: Start Tracking
+[2024-08-22 13:30:09.801] [140362867116736] [Info] Getting last entered description for project 1145774 ("(continue) adding shadow bindgroup")
+[2024-08-22 13:30:09.801] [140362867116736] [Info] Tracking start requested (project id: 1145774)
+[2024-08-22 13:30:09.801] [140362867116736] [Info] Creating backup of settings:
+Allow screenshots: true
+Screenshots interval: 15 minutes
+Randomized tracking: false
+Track keyboard hits: true
+Track mouse clicks: true
+[2024-08-22 13:30:09.801] [140362867116736] [Info] Setting option 'take-screenshots' to 'true'
+[2024-08-22 13:30:09.803] [140362867116736] [Info] Setting option 'tracking-interval' to '15'
+[2024-08-22 13:30:09.803] [140362867116736] [Info] Setting option 'randomized-tracking' to 'false'
+[2024-08-22 13:30:09.827] [140362867116736] [Info] Setting option 'track-keyboard-hits' to 'true'
+[2024-08-22 13:30:09.827] [140362867116736] [Info] Setting option 'track-mouse-clicks' to 'true'
+[2024-08-22 13:30:09.827] [140362867116736] [Info] Applying tracking requirements:
+Allow screenshots: true
+Screenshots interval: 15 minutes
+Randomized tracking: false
+Track keyboard hits: true
+Track mouse clicks: true
+[2024-08-22 13:30:09.827] [140362867116736] [Info] Tracking started (project id: 1145774)
+[2024-08-22 13:30:09.827] [140362867116736] [Info] Updating last worked time for a project in the work log:
+                                                   project id: 1145774, last worked: 2024-08-22T13:30:09, seconds: 2663
+[2024-08-22 13:30:09.829] [140362867116736] [Info] Saving work log to local storage
+[2024-08-22 13:30:09.840] [140362867116736] [Info] Started monitoring keyboard and mouse for clicks. Keyboard hits 0, mouse hits 0
+[2024-08-22 13:30:09.840] [140362867116736] [Info] Started monitoring for idle state
+[2024-08-22 13:30:09.842] [140362867116736] [Info] Showing update activity description dialog at tracking start
+[2024-08-22 13:30:09.843] [140362867116736] [Info] Activity window position: 758, 28 (relative position: 0.296094, 0.0175), dimensions: 522 x 168, screen: 0
+[2024-08-22 13:30:09.844] [140362867116736] [Info] Getting last entered description for project 1145774 ("(continue) adding shadow bindgroup")
+[2024-08-22 13:30:09.851] [140362704217664] [Info] Checking for data to send to the server
+[2024-08-22 13:30:09.914] [140362704217664] [Info] Sent create activity request (id: 1278586341), activity id: 1408528405, [Do. Aug. 22 13:30:09 2024 - Do. Aug. 22 13:30:09 2024], activity API id: 0, description: "(continue) adding shadow bindgroup", last changed: Do. Aug. 22 13:30:09 2024, last synced: never, offline: 0, keys: -1, clicks: -1
+[2024-08-22 13:30:10.226] [140362704217664] [Info] Received API id 141038920 for activity 1408528405, request id: 1278586341
+[2024-08-22 13:30:11.135] [140362867116736] [Info] Sending usage statistics: UI Control Interacted, type: Shortcut, title: Cancel Activity Description
+[2024-08-22 13:30:11.135] [140362867116736] [Info] Closing update activity description dialog
+[2024-08-22 13:31:09.878] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 13:31:09.878] [140362867116736] [Info] Keyboard hits: 3
+[2024-08-22 13:31:09.878] [140362867116736] [Info] Mouse clicks: 2
+[2024-08-22 13:32:10.078] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 13:32:10.078] [140362867116736] [Info] Keyboard hits: 50
+[2024-08-22 13:32:10.078] [140362867116736] [Info] Mouse clicks: 16
+[2024-08-22 13:33:10.278] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 13:33:10.278] [140362867116736] [Info] Keyboard hits: 149
+[2024-08-22 13:33:10.278] [140362867116736] [Info] Mouse clicks: 36
+[2024-08-22 13:34:10.478] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 13:34:10.478] [140362867116736] [Info] Keyboard hits: 149
+[2024-08-22 13:34:10.478] [140362867116736] [Info] Mouse clicks: 42
+[2024-08-22 13:35:10.678] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 13:35:10.678] [140362867116736] [Info] Keyboard hits: 149
+[2024-08-22 13:35:10.678] [140362867116736] [Info] Mouse clicks: 60
+[2024-08-22 13:36:00.878] [140362867116736] [Info] Polling project list
+[2024-08-22 13:36:00.878] [140362867116736] [Info] Getting project list from the server (request id: 1949087079)
+[2024-08-22 13:36:01.041] [140362867116736] [Info] Project list received from the server (request id: 1949087079, list size: 1)
+                                                   IDs: 1145774
+[2024-08-22 13:36:10.877] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 13:36:10.877] [140362867116736] [Info] Keyboard hits: 151
+[2024-08-22 13:36:10.878] [140362867116736] [Info] Mouse clicks: 80
+[2024-08-22 13:37:11.078] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 13:37:11.078] [140362867116736] [Info] Keyboard hits: 151
+[2024-08-22 13:37:11.078] [140362867116736] [Info] Mouse clicks: 92
+[2024-08-22 13:38:11.278] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 13:38:11.278] [140362867116736] [Info] Keyboard hits: 152
+[2024-08-22 13:38:11.278] [140362867116736] [Info] Mouse clicks: 95
+[2024-08-22 13:39:11.478] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 13:39:11.478] [140362867116736] [Info] Keyboard hits: 212
+[2024-08-22 13:39:11.478] [140362867116736] [Info] Mouse clicks: 104
+[2024-08-22 13:40:09.829] [140362867116736] [Info] Reminding user to enter activity description at timed interval
+[2024-08-22 13:40:09.830] [140362867116736] [Info] Showing update activity description reminder dialog
+[2024-08-22 13:40:09.832] [140362867116736] [Info] Activity window position: 758, 28 (relative position: 0.296094, 0.0175), dimensions: 522 x 168, screen: 0
+[2024-08-22 13:40:09.833] [140362867116736] [Info] Getting last entered description for project 1145774 ("(continue) adding shadow bindgroup")
+[2024-08-22 13:40:11.677] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 13:40:11.677] [140362867116736] [Info] Keyboard hits: 319
+[2024-08-22 13:40:11.678] [140362867116736] [Info] Mouse clicks: 108
+[2024-08-22 13:40:20.490] [140362867116736] [Info] Closing update activity description dialog
+[2024-08-22 13:41:11.878] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 13:41:11.878] [140362867116736] [Info] Keyboard hits: 396
+[2024-08-22 13:41:11.878] [140362867116736] [Info] Mouse clicks: 114
+[2024-08-22 13:42:12.078] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 13:42:12.078] [140362867116736] [Info] Keyboard hits: 529
+[2024-08-22 13:42:12.078] [140362867116736] [Info] Mouse clicks: 125
+[2024-08-22 13:43:12.278] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 13:43:12.278] [140362867116736] [Info] Keyboard hits: 567
+[2024-08-22 13:43:12.278] [140362867116736] [Info] Mouse clicks: 137
+[2024-08-22 13:45:09.878] [140362867116736] [Info] Making new snapshot at tracking interval
+[2024-08-22 13:45:09.884] [140362867116736] [Info] Keyboard hits: 593
+[2024-08-22 13:45:09.884] [140362867116736] [Info] Mouse clicks: 164
+[2024-08-22 13:45:09.884] [140362730264128] [Info] Capturing screenshot...
+[2024-08-22 13:45:09.885] [140362730264128] [Info] Taking individual screenshot of screen #0 - (size: 2560x1600+0+0, DPR 2)
+[2024-08-22 13:45:10.023] [140362704217664] [Info] Checking for data to send to the server
+[2024-08-22 13:45:10.023] [140362704217664] [Info] Sent update activity request (id: 2108687008), activity id: 1408528405, [Do. Aug. 22 13:30:09 2024 - Do. Aug. 22 13:45:09 2024], activity API id: 141038920, description: "(continue) adding shadow bindgroup", last changed: Do. Aug. 22 13:45:09 2024, last synced: Do. Aug. 22 13:30:09 2024, offline: 0, keys: 593, clicks: 164
+[2024-08-22 13:45:10.082] [140362730264128] [Info] Combining screenshots: rendering screenshot 2560x1600 to canvas 2560x1600+0+0)
+[2024-08-22 13:45:10.136] [140362730264128] [Info] Screenshot of screen #1 captured (size: 2560x1600@32, DPR: 1, blur: NO)
+[2024-08-22 13:45:10.282] [140362704217664] [Info] Activity update request successful (id: 1408528405, request id: 2108687008, type: 1)
+[2024-08-22 13:45:10.473] [140362730264128] [Info] Final screenshot captured (total size: 2560x1600@32, DPR: 1, all displays: YES, blur: NO)
+[2024-08-22 13:45:10.475] [140362867116736] [Info] Showing review window
+[2024-08-22 13:45:11.966] [140362867116736] [Info] Snapshot 3 approved by the user
+[2024-08-22 13:45:11.966] [140362867116736] [Info] Uploading snapshot 3 screenshot to S3
+[2024-08-22 13:45:11.970] [140362867116736] [Info] Uploading file to S3
+                                                   ID: 1308084013
+                                                   Upload attempt: 1
+                                                   Starting upload...
+[2024-08-22 13:45:11.970] [140362867116736] [Info] Closing review window
+[2024-08-22 13:45:11.970] [140362867116736] [Info] Sending usage statistics: UI Control Interacted, type: Button, title: Accept Snapshot
+[2024-08-22 13:45:12.678] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 13:45:12.678] [140362867116736] [Info] Keyboard hits: 593
+[2024-08-22 13:45:12.678] [140362867116736] [Info] Mouse clicks: 165
+[2024-08-22 13:45:13.575] [140362867116736] [Info] File upload to S3 finished
+                                                   ID: 1308084013
+                                                   Success: YES
+                                                   Download URL: https://toptracker.s3.amazonaws.com/uploads/26002a7c24ed0299ba1e4d7a6ade1c1e2ac119c2.PNG
+                                                   Error description: (None)
+[2024-08-22 13:45:13.575] [140362867116736] [Info] Sending create image request, id: 3, activity API id: 141038920, blur: 0, randomized: 0, type: screenshot, taken at: 2024-08-22T13:45:09+02:00
+[2024-08-22 13:45:14.066] [140362867116736] [Info] Image request 3 (screenshot) handled with code 204
+[2024-08-22 13:45:14.067] [140362867116736] [Info] Removing snapshot with id: 3, activity id: 1408528405, state: 9, screenshotState: 11, camerashotState: 1
+[2024-08-22 13:46:00.878] [140362867116736] [Info] Polling project list
+[2024-08-22 13:46:00.878] [140362867116736] [Info] Getting project list from the server (request id: 990218613)
+[2024-08-22 13:46:01.051] [140362867116736] [Info] Project list received from the server (request id: 990218613, list size: 1)
+                                                   IDs: 1145774
+[2024-08-22 13:46:12.877] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 13:46:12.878] [140362867116736] [Info] Keyboard hits: 593
+[2024-08-22 13:46:12.878] [140362867116736] [Info] Mouse clicks: 167
+[2024-08-22 13:47:13.078] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 13:47:13.078] [140362867116736] [Info] Keyboard hits: 593
+[2024-08-22 13:47:13.078] [140362867116736] [Info] Mouse clicks: 172
+[2024-08-22 13:48:13.278] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 13:48:13.278] [140362867116736] [Info] Keyboard hits: 593
+[2024-08-22 13:48:13.278] [140362867116736] [Info] Mouse clicks: 172
+[2024-08-22 13:49:13.478] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 13:49:13.479] [140362867116736] [Info] Keyboard hits: 593
+[2024-08-22 13:49:13.479] [140362867116736] [Info] Mouse clicks: 183
+[2024-08-22 13:50:09.828] [140362867116736] [Info] Reminding user to enter activity description at timed interval
+[2024-08-22 13:50:09.828] [140362867116736] [Info] Showing update activity description reminder dialog
+[2024-08-22 13:50:09.829] [140362867116736] [Info] Activity window position: 758, 28 (relative position: 0.296094, 0.0175), dimensions: 522 x 50, screen: 0
+[2024-08-22 13:50:09.829] [140362867116736] [Info] Getting last entered description for project 1145774 ("(continue) adding shadow bindgroup")
+[2024-08-22 13:50:13.678] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 13:50:13.678] [140362867116736] [Info] Keyboard hits: 593
+[2024-08-22 13:50:13.678] [140362867116736] [Info] Mouse clicks: 192
+[2024-08-22 13:50:20.487] [140362867116736] [Info] Closing update activity description dialog
+[2024-08-22 13:51:13.878] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 13:51:13.879] [140362867116736] [Info] Keyboard hits: 742
+[2024-08-22 13:51:13.879] [140362867116736] [Info] Mouse clicks: 194
+[2024-08-22 13:52:14.078] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 13:52:14.078] [140362867116736] [Info] Keyboard hits: 763
+[2024-08-22 13:52:14.078] [140362867116736] [Info] Mouse clicks: 197
+[2024-08-22 13:53:14.278] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 13:53:14.278] [140362867116736] [Info] Keyboard hits: 853
+[2024-08-22 13:53:14.278] [140362867116736] [Info] Mouse clicks: 201
+[2024-08-22 13:54:14.477] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 13:54:14.478] [140362867116736] [Info] Keyboard hits: 927
+[2024-08-22 13:54:14.478] [140362867116736] [Info] Mouse clicks: 207
+[2024-08-22 13:55:14.678] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 13:55:14.678] [140362867116736] [Info] Keyboard hits: 971
+[2024-08-22 13:55:14.679] [140362867116736] [Info] Mouse clicks: 219
+[2024-08-22 13:56:14.878] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 13:56:14.878] [140362867116736] [Info] Keyboard hits: 1086
+[2024-08-22 13:56:14.878] [140362867116736] [Info] Mouse clicks: 230
+[2024-08-22 13:57:15.077] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 13:57:15.077] [140362867116736] [Info] Keyboard hits: 1132
+[2024-08-22 13:57:15.078] [140362867116736] [Info] Mouse clicks: 238
+[2024-08-22 13:58:15.278] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 13:58:15.278] [140362867116736] [Info] Keyboard hits: 1165
+[2024-08-22 13:58:15.278] [140362867116736] [Info] Mouse clicks: 266
+[2024-08-22 14:00:09.828] [140362867116736] [Info] Reminding user to enter activity description at timed interval
+[2024-08-22 14:00:09.828] [140362867116736] [Info] Showing update activity description reminder dialog
+[2024-08-22 14:00:09.829] [140362867116736] [Info] Activity window position: 758, 28 (relative position: 0.296094, 0.0175), dimensions: 522 x 50, screen: 0
+[2024-08-22 14:00:09.829] [140362867116736] [Info] Getting last entered description for project 1145774 ("(continue) adding shadow bindgroup")
+[2024-08-22 14:00:10.078] [140362867116736] [Info] Making new snapshot at tracking interval
+[2024-08-22 14:00:10.081] [140362867116736] [Info] Keyboard hits: 1187
+[2024-08-22 14:00:10.081] [140362867116736] [Info] Mouse clicks: 300
+[2024-08-22 14:00:10.081] [140362730264128] [Info] Capturing screenshot...
+[2024-08-22 14:00:10.081] [140362730264128] [Info] Taking individual screenshot of screen #0 - (size: 2560x1600+0+0, DPR 2)
+[2024-08-22 14:00:10.121] [140362704217664] [Info] Checking for data to send to the server
+[2024-08-22 14:00:10.121] [140362704217664] [Info] Sent update activity request (id: 2000614392), activity id: 1408528405, [Do. Aug. 22 13:30:09 2024 - Do. Aug. 22 14:00:10 2024], activity API id: 141038920, description: "(continue) adding shadow bindgroup", last changed: Do. Aug. 22 14:00:10 2024, last synced: Do. Aug. 22 13:45:09 2024, offline: 0, keys: 1187, clicks: 300
+[2024-08-22 14:00:10.134] [140362730264128] [Info] Combining screenshots: rendering screenshot 2560x1600 to canvas 2560x1600+0+0)
+[2024-08-22 14:00:10.135] [140362730264128] [Info] Screenshot of screen #1 captured (size: 2560x1600@32, DPR: 1, blur: NO)
+[2024-08-22 14:00:10.353] [140362730264128] [Info] Final screenshot captured (total size: 2560x1600@32, DPR: 1, all displays: YES, blur: NO)
+[2024-08-22 14:00:10.353] [140362867116736] [Info] Showing review window
+[2024-08-22 14:00:10.507] [140362704217664] [Info] Activity update request successful (id: 1408528405, request id: 2000614392, type: 1)
+[2024-08-22 14:00:12.833] [140362867116736] [Info] Snapshot 4 approved by the user
+[2024-08-22 14:00:12.833] [140362867116736] [Info] Uploading snapshot 4 screenshot to S3
+[2024-08-22 14:00:12.834] [140362867116736] [Info] Uploading file to S3
+                                                   ID: 106605052
+                                                   Upload attempt: 1
+                                                   Starting upload...
+[2024-08-22 14:00:12.835] [140362867116736] [Info] Closing review window
+[2024-08-22 14:00:12.838] [140362867116736] [Info] Sending usage statistics: UI Control Interacted, type: Button, title: Accept Snapshot
+[2024-08-22 14:00:14.881] [140362867116736] [Info] File upload to S3 finished
+                                                   ID: 106605052
+                                                   Success: YES
+                                                   Download URL: https://toptracker.s3.amazonaws.com/uploads/c7bb7a1d2c56c1397a83f537a7ded68e39838e62.PNG
+                                                   Error description: (None)
+[2024-08-22 14:00:14.883] [140362867116736] [Info] Sending create image request, id: 4, activity API id: 141038920, blur: 0, randomized: 0, type: screenshot, taken at: 2024-08-22T14:00:10+02:00
+[2024-08-22 14:00:15.252] [140362867116736] [Info] Image request 4 (screenshot) handled with code 204
+[2024-08-22 14:00:15.252] [140362867116736] [Info] Removing snapshot with id: 4, activity id: 1408528405, state: 9, screenshotState: 11, camerashotState: 1
+[2024-08-22 14:00:15.678] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:00:15.678] [140362867116736] [Info] Keyboard hits: 1187
+[2024-08-22 14:00:15.678] [140362867116736] [Info] Mouse clicks: 302
+[2024-08-22 14:01:00.878] [140362867116736] [Info] Polling project list
+[2024-08-22 14:01:00.878] [140362867116736] [Info] Getting project list from the server (request id: 1427621033)
+[2024-08-22 14:01:03.290] [140362867116736] [Info] Project list received from the server (request id: 1427621033, list size: 1)
+                                                   IDs: 1145774
+[2024-08-22 14:01:15.878] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:01:15.878] [140362867116736] [Info] Keyboard hits: 1189
+[2024-08-22 14:01:15.878] [140362867116736] [Info] Mouse clicks: 314
+[2024-08-22 14:02:16.078] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:02:16.078] [140362867116736] [Info] Keyboard hits: 1189
+[2024-08-22 14:02:16.078] [140362867116736] [Info] Mouse clicks: 314
+[2024-08-22 14:03:16.278] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:03:16.278] [140362867116736] [Info] Keyboard hits: 1189
+[2024-08-22 14:03:16.278] [140362867116736] [Info] Mouse clicks: 314
+[2024-08-22 14:04:16.478] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:04:16.478] [140362867116736] [Info] Keyboard hits: 1217
+[2024-08-22 14:04:16.478] [140362867116736] [Info] Mouse clicks: 322
+[2024-08-22 14:05:16.678] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:05:16.678] [140362867116736] [Info] Keyboard hits: 1280
+[2024-08-22 14:05:16.678] [140362867116736] [Info] Mouse clicks: 325
+[2024-08-22 14:06:16.878] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:06:16.878] [140362867116736] [Info] Keyboard hits: 1448
+[2024-08-22 14:06:16.879] [140362867116736] [Info] Mouse clicks: 325
+[2024-08-22 14:07:17.078] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:07:17.078] [140362867116736] [Info] Keyboard hits: 1552
+[2024-08-22 14:07:17.078] [140362867116736] [Info] Mouse clicks: 331
+[2024-08-22 14:08:17.278] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:08:17.278] [140362867116736] [Info] Keyboard hits: 1658
+[2024-08-22 14:08:17.278] [140362867116736] [Info] Mouse clicks: 333
+[2024-08-22 14:09:17.478] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:09:17.478] [140362867116736] [Info] Keyboard hits: 1794
+[2024-08-22 14:09:17.478] [140362867116736] [Info] Mouse clicks: 342
+[2024-08-22 14:10:09.828] [140362867116736] [Info] Reminding user to enter activity description at timed interval
+[2024-08-22 14:10:09.828] [140362867116736] [Info] Showing update activity description reminder dialog
+[2024-08-22 14:10:09.844] [140362867116736] [Info] Activity window position: 758, 28 (relative position: 0.296094, 0.0175), dimensions: 522 x 50, screen: 0
+[2024-08-22 14:10:09.844] [140362867116736] [Info] Getting last entered description for project 1145774 ("(continue) adding shadow bindgroup")
+[2024-08-22 14:10:17.678] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:10:17.678] [140362867116736] [Info] Keyboard hits: 1796
+[2024-08-22 14:10:17.678] [140362867116736] [Info] Mouse clicks: 343
+[2024-08-22 14:10:20.488] [140362867116736] [Info] Closing update activity description dialog
+[2024-08-22 14:11:17.878] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:11:17.878] [140362867116736] [Info] Keyboard hits: 1819
+[2024-08-22 14:11:17.878] [140362867116736] [Info] Mouse clicks: 346
+[2024-08-22 14:12:17.879] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:12:17.879] [140362867116736] [Info] Keyboard hits: 1824
+[2024-08-22 14:12:17.879] [140362867116736] [Info] Mouse clicks: 353
+[2024-08-22 14:13:18.078] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:13:18.078] [140362867116736] [Info] Keyboard hits: 1941
+[2024-08-22 14:13:18.078] [140362867116736] [Info] Mouse clicks: 359
+[2024-08-22 14:15:10.278] [140362867116736] [Info] Making new snapshot at tracking interval
+[2024-08-22 14:15:10.280] [140362867116736] [Info] Keyboard hits: 2043
+[2024-08-22 14:15:10.280] [140362867116736] [Info] Mouse clicks: 373
+[2024-08-22 14:15:10.280] [140362730264128] [Info] Capturing screenshot...
+[2024-08-22 14:15:10.280] [140362730264128] [Info] Taking individual screenshot of screen #0 - (size: 2560x1600+0+0, DPR 2)
+[2024-08-22 14:15:10.317] [140362704217664] [Info] Checking for data to send to the server
+[2024-08-22 14:15:10.317] [140362704217664] [Info] Sent update activity request (id: 1465146019), activity id: 1408528405, [Do. Aug. 22 13:30:09 2024 - Do. Aug. 22 14:15:10 2024], activity API id: 141038920, description: "(continue) adding shadow bindgroup", last changed: Do. Aug. 22 14:15:10 2024, last synced: Do. Aug. 22 14:00:10 2024, offline: 0, keys: 2043, clicks: 373
+[2024-08-22 14:15:10.331] [140362730264128] [Info] Combining screenshots: rendering screenshot 2560x1600 to canvas 2560x1600+0+0)
+[2024-08-22 14:15:10.343] [140362730264128] [Info] Screenshot of screen #1 captured (size: 2560x1600@32, DPR: 1, blur: NO)
+[2024-08-22 14:15:10.532] [140362704217664] [Info] Activity update request successful (id: 1408528405, request id: 1465146019, type: 1)
+[2024-08-22 14:15:10.583] [140362730264128] [Info] Final screenshot captured (total size: 2560x1600@32, DPR: 1, all displays: YES, blur: NO)
+[2024-08-22 14:15:10.586] [140362867116736] [Info] Showing review window
+[2024-08-22 14:15:14.838] [140362867116736] [Info] Snapshot 5 approved by the user
+[2024-08-22 14:15:14.838] [140362867116736] [Info] Uploading snapshot 5 screenshot to S3
+[2024-08-22 14:15:14.840] [140362867116736] [Info] Uploading file to S3
+                                                   ID: 1304765023
+                                                   Upload attempt: 1
+                                                   Starting upload...
+[2024-08-22 14:15:14.840] [140362867116736] [Info] Closing review window
+[2024-08-22 14:15:16.096] [140362867116736] [Info] File upload to S3 finished
+                                                   ID: 1304765023
+                                                   Success: YES
+                                                   Download URL: https://toptracker.s3.amazonaws.com/uploads/69921e4e52e884e2d1331860d688db8010e90876.PNG
+                                                   Error description: (None)
+[2024-08-22 14:15:16.096] [140362867116736] [Info] Sending create image request, id: 5, activity API id: 141038920, blur: 0, randomized: 0, type: screenshot, taken at: 2024-08-22T14:15:10+02:00
+[2024-08-22 14:15:16.393] [140362867116736] [Info] Image request 5 (screenshot) handled with code 204
+[2024-08-22 14:15:16.393] [140362867116736] [Info] Removing snapshot with id: 5, activity id: 1408528405, state: 9, screenshotState: 11, camerashotState: 1
+[2024-08-22 14:15:18.478] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:15:18.479] [140362867116736] [Info] Keyboard hits: 2043
+[2024-08-22 14:15:18.480] [140362867116736] [Info] Mouse clicks: 376
+[2024-08-22 14:16:18.678] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:16:18.678] [140362867116736] [Info] Keyboard hits: 2104
+[2024-08-22 14:16:18.678] [140362867116736] [Info] Mouse clicks: 379
+[2024-08-22 14:17:18.878] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:17:18.878] [140362867116736] [Info] Keyboard hits: 2193
+[2024-08-22 14:17:18.878] [140362867116736] [Info] Mouse clicks: 380
+[2024-08-22 14:18:19.078] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:18:19.078] [140362867116736] [Info] Keyboard hits: 2328
+[2024-08-22 14:18:19.078] [140362867116736] [Info] Mouse clicks: 387
+[2024-08-22 14:19:19.278] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:19:19.278] [140362867116736] [Info] Keyboard hits: 2415
+[2024-08-22 14:19:19.278] [140362867116736] [Info] Mouse clicks: 388
+[2024-08-22 14:20:09.828] [140362867116736] [Info] Reminding user to enter activity description at timed interval
+[2024-08-22 14:20:09.828] [140362867116736] [Info] Showing update activity description reminder dialog
+[2024-08-22 14:20:09.829] [140362867116736] [Info] Activity window position: 758, 28 (relative position: 0.296094, 0.0175), dimensions: 522 x 50, screen: 0
+[2024-08-22 14:20:09.829] [140362867116736] [Info] Getting last entered description for project 1145774 ("(continue) adding shadow bindgroup")
+[2024-08-22 14:20:19.478] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:20:19.478] [140362867116736] [Info] Keyboard hits: 2415
+[2024-08-22 14:20:19.478] [140362867116736] [Info] Mouse clicks: 390
+[2024-08-22 14:21:19.677] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:21:19.678] [140362867116736] [Info] Keyboard hits: 2419
+[2024-08-22 14:21:19.678] [140362867116736] [Info] Mouse clicks: 399
+[2024-08-22 14:22:19.877] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:22:19.878] [140362867116736] [Info] Keyboard hits: 2564
+[2024-08-22 14:22:19.878] [140362867116736] [Info] Mouse clicks: 399
+[2024-08-22 14:23:20.078] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:23:20.078] [140362867116736] [Info] Keyboard hits: 2631
+[2024-08-22 14:23:20.078] [140362867116736] [Info] Mouse clicks: 403
+[2024-08-22 14:24:20.278] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:24:20.278] [140362867116736] [Info] Keyboard hits: 2829
+[2024-08-22 14:24:20.278] [140362867116736] [Info] Mouse clicks: 403
+[2024-08-22 14:25:20.478] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:25:20.478] [140362867116736] [Info] Keyboard hits: 2829
+[2024-08-22 14:25:20.478] [140362867116736] [Info] Mouse clicks: 412
+[2024-08-22 14:26:20.678] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:26:20.678] [140362867116736] [Info] Keyboard hits: 2849
+[2024-08-22 14:26:20.678] [140362867116736] [Info] Mouse clicks: 424
+[2024-08-22 14:27:20.879] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:27:20.879] [140362867116736] [Info] Keyboard hits: 2849
+[2024-08-22 14:27:20.879] [140362867116736] [Info] Mouse clicks: 427
+[2024-08-22 14:28:21.078] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:28:21.078] [140362867116736] [Info] Keyboard hits: 2849
+[2024-08-22 14:28:21.078] [140362867116736] [Info] Mouse clicks: 439
+[2024-08-22 14:30:09.828] [140362867116736] [Info] Reminding user to enter activity description at timed interval
+[2024-08-22 14:30:09.828] [140362867116736] [Info] Showing update activity description reminder dialog
+[2024-08-22 14:30:09.831] [140362867116736] [Info] Activity window position: 758, 28 (relative position: 0.296094, 0.0175), dimensions: 522 x 50, screen: 0
+[2024-08-22 14:30:09.831] [140362867116736] [Info] Getting last entered description for project 1145774 ("(continue) adding shadow bindgroup")
+[2024-08-22 14:30:10.478] [140362867116736] [Info] Making new snapshot at tracking interval
+[2024-08-22 14:30:10.479] [140362867116736] [Info] Keyboard hits: 2872
+[2024-08-22 14:30:10.479] [140362867116736] [Info] Mouse clicks: 449
+[2024-08-22 14:30:10.479] [140362730264128] [Info] Capturing screenshot...
+[2024-08-22 14:30:10.479] [140362730264128] [Info] Taking individual screenshot of screen #0 - (size: 2560x1600+0+0, DPR 2)
+[2024-08-22 14:30:10.509] [140362704217664] [Info] Checking for data to send to the server
+[2024-08-22 14:30:10.509] [140362704217664] [Info] Sent update activity request (id: 984488228), activity id: 1408528405, [Do. Aug. 22 13:30:09 2024 - Do. Aug. 22 14:30:10 2024], activity API id: 141038920, description: "(continue) adding shadow bindgroup", last changed: Do. Aug. 22 14:30:10 2024, last synced: Do. Aug. 22 14:15:10 2024, offline: 0, keys: 2872, clicks: 449
+[2024-08-22 14:30:10.527] [140362730264128] [Info] Combining screenshots: rendering screenshot 2560x1600 to canvas 2560x1600+0+0)
+[2024-08-22 14:30:10.539] [140362730264128] [Info] Screenshot of screen #1 captured (size: 2560x1600@32, DPR: 1, blur: NO)
+[2024-08-22 14:30:10.733] [140362704217664] [Info] Activity update request successful (id: 1408528405, request id: 984488228, type: 1)
+[2024-08-22 14:30:10.758] [140362730264128] [Info] Final screenshot captured (total size: 2560x1600@32, DPR: 1, all displays: YES, blur: NO)
+[2024-08-22 14:30:10.761] [140362867116736] [Info] Showing review window
+[2024-08-22 14:30:13.376] [140362867116736] [Info] Snapshot 6 approved by the user
+[2024-08-22 14:30:13.376] [140362867116736] [Info] Uploading snapshot 6 screenshot to S3
+[2024-08-22 14:30:13.378] [140362867116736] [Info] Uploading file to S3
+                                                   ID: 1726236871
+                                                   Upload attempt: 1
+                                                   Starting upload...
+[2024-08-22 14:30:13.378] [140362867116736] [Info] Closing review window
+[2024-08-22 14:30:13.378] [140362867116736] [Info] Sending usage statistics: UI Control Interacted, type: Button, title: Accept Snapshot
+[2024-08-22 14:30:14.954] [140362867116736] [Info] File upload to S3 finished
+                                                   ID: 1726236871
+                                                   Success: YES
+                                                   Download URL: https://toptracker.s3.amazonaws.com/uploads/9ba9d802054af463ddaba36102aef7747aba369f.PNG
+                                                   Error description: (None)
+[2024-08-22 14:30:14.955] [140362867116736] [Info] Sending create image request, id: 6, activity API id: 141038920, blur: 0, randomized: 0, type: screenshot, taken at: 2024-08-22T14:30:10+02:00
+[2024-08-22 14:30:15.225] [140362867116736] [Info] Image request 6 (screenshot) handled with code 204
+[2024-08-22 14:30:15.225] [140362867116736] [Info] Removing snapshot with id: 6, activity id: 1408528405, state: 9, screenshotState: 11, camerashotState: 1
+[2024-08-22 14:30:21.478] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:30:21.478] [140362867116736] [Info] Keyboard hits: 2872
+[2024-08-22 14:30:21.478] [140362867116736] [Info] Mouse clicks: 451
+[2024-08-22 14:31:00.879] [140362867116736] [Info] Polling project list
+[2024-08-22 14:31:00.879] [140362867116736] [Info] Getting project list from the server (request id: 419133971)
+[2024-08-22 14:31:01.132] [140362867116736] [Info] Project list received from the server (request id: 419133971, list size: 1)
+                                                   IDs: 1145774
+[2024-08-22 14:31:21.678] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:31:21.678] [140362867116736] [Info] Keyboard hits: 2893
+[2024-08-22 14:31:21.678] [140362867116736] [Info] Mouse clicks: 468
+[2024-08-22 14:32:21.878] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:32:21.878] [140362867116736] [Info] Keyboard hits: 2940
+[2024-08-22 14:32:21.878] [140362867116736] [Info] Mouse clicks: 473
+[2024-08-22 14:33:22.078] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:33:22.078] [140362867116736] [Info] Keyboard hits: 2963
+[2024-08-22 14:33:22.079] [140362867116736] [Info] Mouse clicks: 484
+[2024-08-22 14:34:22.278] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:34:22.278] [140362867116736] [Info] Keyboard hits: 2963
+[2024-08-22 14:34:22.278] [140362867116736] [Info] Mouse clicks: 488
+[2024-08-22 14:35:22.478] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:35:22.478] [140362867116736] [Info] Keyboard hits: 2980
+[2024-08-22 14:35:22.478] [140362867116736] [Info] Mouse clicks: 493
+[2024-08-22 14:36:22.678] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:36:22.678] [140362867116736] [Info] Keyboard hits: 2999
+[2024-08-22 14:36:22.678] [140362867116736] [Info] Mouse clicks: 497
+[2024-08-22 14:37:22.878] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:37:22.879] [140362867116736] [Info] Keyboard hits: 3000
+[2024-08-22 14:37:22.879] [140362867116736] [Info] Mouse clicks: 500
+[2024-08-22 14:38:23.078] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:38:23.078] [140362867116736] [Info] Keyboard hits: 3001
+[2024-08-22 14:38:23.078] [140362867116736] [Info] Mouse clicks: 508
+[2024-08-22 14:39:23.278] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:39:23.278] [140362867116736] [Info] Keyboard hits: 3034
+[2024-08-22 14:39:23.279] [140362867116736] [Info] Mouse clicks: 530
+[2024-08-22 14:40:09.829] [140362867116736] [Info] Reminding user to enter activity description at timed interval
+[2024-08-22 14:40:09.829] [140362867116736] [Info] Showing update activity description reminder dialog
+[2024-08-22 14:40:09.833] [140362867116736] [Info] Activity window position: 758, 28 (relative position: 0.296094, 0.0175), dimensions: 522 x 50, screen: 0
+[2024-08-22 14:40:09.833] [140362867116736] [Info] Getting last entered description for project 1145774 ("(continue) adding shadow bindgroup")
+[2024-08-22 14:40:20.488] [140362867116736] [Info] Closing update activity description dialog
+[2024-08-22 14:40:23.478] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:40:23.478] [140362867116736] [Info] Keyboard hits: 3068
+[2024-08-22 14:40:23.478] [140362867116736] [Info] Mouse clicks: 556
+[2024-08-22 14:41:23.677] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:41:23.677] [140362867116736] [Info] Keyboard hits: 3207
+[2024-08-22 14:41:23.678] [140362867116736] [Info] Mouse clicks: 569
+[2024-08-22 14:42:23.878] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:42:23.878] [140362867116736] [Info] Keyboard hits: 3377
+[2024-08-22 14:42:23.878] [140362867116736] [Info] Mouse clicks: 572
+[2024-08-22 14:43:24.078] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:43:24.078] [140362867116736] [Info] Keyboard hits: 3509
+[2024-08-22 14:43:24.078] [140362867116736] [Info] Mouse clicks: 572
+[2024-08-22 14:45:10.678] [140362867116736] [Info] Making new snapshot at tracking interval
+[2024-08-22 14:45:10.679] [140362867116736] [Info] Keyboard hits: 3656
+[2024-08-22 14:45:10.679] [140362867116736] [Info] Mouse clicks: 580
+[2024-08-22 14:45:10.679] [140362730264128] [Info] Capturing screenshot...
+[2024-08-22 14:45:10.679] [140362730264128] [Info] Taking individual screenshot of screen #0 - (size: 2560x1600+0+0, DPR 2)
+[2024-08-22 14:45:10.713] [140362704217664] [Info] Checking for data to send to the server
+[2024-08-22 14:45:10.714] [140362704217664] [Info] Sent update activity request (id: 565581055), activity id: 1408528405, [Do. Aug. 22 13:30:09 2024 - Do. Aug. 22 14:45:10 2024], activity API id: 141038920, description: "(continue) adding shadow bindgroup", last changed: Do. Aug. 22 14:45:10 2024, last synced: Do. Aug. 22 14:30:10 2024, offline: 0, keys: 3656, clicks: 580
+[2024-08-22 14:45:10.724] [140362730264128] [Info] Combining screenshots: rendering screenshot 2560x1600 to canvas 2560x1600+0+0)
+[2024-08-22 14:45:10.743] [140362730264128] [Info] Screenshot of screen #1 captured (size: 2560x1600@32, DPR: 1, blur: NO)
+[2024-08-22 14:45:10.919] [140362704217664] [Info] Activity update request successful (id: 1408528405, request id: 565581055, type: 1)
+[2024-08-22 14:45:10.994] [140362730264128] [Info] Final screenshot captured (total size: 2560x1600@32, DPR: 1, all displays: YES, blur: NO)
+[2024-08-22 14:45:10.997] [140362867116736] [Info] Showing review window
+[2024-08-22 14:45:14.999] [140362867116736] [Info] Snapshot 7 approved by the user
+[2024-08-22 14:45:14.999] [140362867116736] [Info] Uploading snapshot 7 screenshot to S3
+[2024-08-22 14:45:15.000] [140362867116736] [Info] Uploading file to S3
+                                                   ID: 2047570537
+                                                   Upload attempt: 1
+                                                   Starting upload...
+[2024-08-22 14:45:15.001] [140362867116736] [Info] Closing review window
+[2024-08-22 14:45:16.332] [140362867116736] [Info] File upload to S3 finished
+                                                   ID: 2047570537
+                                                   Success: YES
+                                                   Download URL: https://toptracker.s3.amazonaws.com/uploads/36833c0a412d652b3ab8d46cc7a0d6dde765dbcb.PNG
+                                                   Error description: (None)
+[2024-08-22 14:45:16.332] [140362867116736] [Info] Sending create image request, id: 7, activity API id: 141038920, blur: 0, randomized: 0, type: screenshot, taken at: 2024-08-22T14:45:10+02:00
+[2024-08-22 14:45:16.534] [140362867116736] [Info] Image request 7 (screenshot) handled with code 204
+[2024-08-22 14:45:16.535] [140362867116736] [Info] Removing snapshot with id: 7, activity id: 1408528405, state: 9, screenshotState: 11, camerashotState: 1
+[2024-08-22 14:45:24.478] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:45:24.478] [140362867116736] [Info] Keyboard hits: 3690
+[2024-08-22 14:45:24.478] [140362867116736] [Info] Mouse clicks: 581
+[2024-08-22 14:46:24.678] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:46:24.678] [140362867116736] [Info] Keyboard hits: 3810
+[2024-08-22 14:46:24.678] [140362867116736] [Info] Mouse clicks: 594
+[2024-08-22 14:47:24.878] [140362867116736] [Info] Service timeout, updating activity end time (id: 1408528405)
+[2024-08-22 14:47:24.878] [140362867116736] [Info] Keyboard hits: 3918
+[2024-08-22 14:47:24.878] [140362867116736] [Info] Mouse clicks: 598
+[2024-08-22 14:48:07.113] [140362867116736] [Info] Sending usage statistics: UI Control Interacted, type: Shortcut, title: Stop Tracking
+[2024-08-22 14:48:07.113] [140362867116736] [Info] Tracking stop requested (project id: 1145774)
+[2024-08-22 14:48:07.113] [140362867116736] [Info] Sending usage statistics: Time Tracked
+[2024-08-22 14:48:07.113] [140362867116736] [Info] Updating last worked time for a project in the work log:
+                                                   project id: 1145774, last worked: 2024-08-22T14:48:07, seconds: 7340
+[2024-08-22 14:48:07.114] [140362867116736] [Info] Saving work log to local storage
+[2024-08-22 14:48:07.114] [140362867116736] [Info] Tracking stopped (project id: 1145774)
+[2024-08-22 14:48:07.114] [140362867116736] [Info] Keyboard hits: 3965
+[2024-08-22 14:48:07.114] [140362867116736] [Info] Mouse clicks: 602
+[2024-08-22 14:48:07.115] [140362867116736] [Info] Setting option 'tracking-interval' to '15'
+[2024-08-22 14:48:07.115] [140362867116736] [Info] Setting option 'take-screenshots' to 'true'
+[2024-08-22 14:48:07.115] [140362867116736] [Info] Updating settings backup of "Allow screenshots" to true
+[2024-08-22 14:48:07.115] [140362867116736] [Info] Setting option 'randomized-tracking' to 'false'
+[2024-08-22 14:48:07.150] [140362867116736] [Info] Setting option 'track-keyboard-hits' to 'true'
+[2024-08-22 14:48:07.177] [140362867116736] [Info] Stopped input monitoring for clicks. Keyboard hits 3966, mouse hits 602
+[2024-08-22 14:48:07.178] [140362867116736] [Info] Started monitoring keyboard and mouse for clicks. Keyboard hits 3966, mouse hits 602
+[2024-08-22 14:48:07.178] [140362867116736] [Info] Setting option 'track-mouse-clicks' to 'true'
+[2024-08-22 14:48:07.228] [140362867116736] [Info] Stopped input monitoring for clicks. Keyboard hits 3966, mouse hits 602
+[2024-08-22 14:48:07.229] [140362867116736] [Info] Started monitoring keyboard and mouse for clicks. Keyboard hits 3966, mouse hits 602
+[2024-08-22 14:48:07.279] [140362867116736] [Info] Stopped input monitoring for clicks. Keyboard hits 3966, mouse hits 602
+[2024-08-22 14:48:07.279] [140362867116736] [Info] Stopped monitoring for idle state
+[2024-08-22 14:48:07.280] [140362867116736] [Info] Getting last entered description for project 1145774 ("(continue) adding shadow bindgroup")
+[2024-08-22 14:48:07.281] [140362704217664] [Info] Checking for data to send to the server
+[2024-08-22 14:48:07.281] [140362704217664] [Info] Sent update activity request (id: 203453324), activity id: 1408528405, [Do. Aug. 22 13:30:09 2024 - Do. Aug. 22 14:48:07 2024], activity API id: 141038920, description: "(continue) adding shadow bindgroup", last changed: Do. Aug. 22 14:48:07 2024, last synced: Do. Aug. 22 14:45:10 2024, offline: 0, keys: 3965, clicks: 602
+[2024-08-22 14:48:07.601] [140362704217664] [Info] Activity update request successful (id: 1408528405, request id: 203453324, type: 1)
+[2024-08-22 14:49:00.878] [140362867116736] [Info] Polling project list
+[2024-08-22 14:49:00.879] [140362867116736] [Info] Getting project list from the server (request id: 233602431)
+[2024-08-22 14:49:01.074] [140362867116736] [Info] Project list received from the server (request id: 233602431, list size: 1)
+                                                   IDs: 1145774
+[2024-08-22 14:51:14.971] [140362867116736] [Info] Sending usage statistics: UI Control Interacted, type: Shortcut, title: Start Tracking
+[2024-08-22 14:51:14.973] [140362867116736] [Info] Getting last entered description for project 1145774 ("(continue) adding shadow bindgroup")
+[2024-08-22 14:51:14.973] [140362867116736] [Info] Tracking start requested (project id: 1145774)
+[2024-08-22 14:51:14.973] [140362867116736] [Info] Creating backup of settings:
+Allow screenshots: true
+Screenshots interval: 15 minutes
+Randomized tracking: false
+Track keyboard hits: true
+Track mouse clicks: true
+[2024-08-22 14:51:14.973] [140362867116736] [Info] Setting option 'take-screenshots' to 'true'
+[2024-08-22 14:51:14.973] [140362867116736] [Info] Setting option 'tracking-interval' to '15'
+[2024-08-22 14:51:14.973] [140362867116736] [Info] Setting option 'randomized-tracking' to 'false'
+[2024-08-22 14:51:14.994] [140362867116736] [Info] Setting option 'track-keyboard-hits' to 'true'
+[2024-08-22 14:51:14.994] [140362867116736] [Info] Setting option 'track-mouse-clicks' to 'true'
+[2024-08-22 14:51:14.994] [140362867116736] [Info] Applying tracking requirements:
+Allow screenshots: true
+Screenshots interval: 15 minutes
+Randomized tracking: false
+Track keyboard hits: true
+Track mouse clicks: true
+[2024-08-22 14:51:14.994] [140362867116736] [Info] Tracking started (project id: 1145774)
+[2024-08-22 14:51:14.994] [140362867116736] [Info] Updating last worked time for a project in the work log:
+                                                   project id: 1145774, last worked: 2024-08-22T14:51:14, seconds: 7340
+[2024-08-22 14:51:14.995] [140362867116736] [Info] Saving work log to local storage
+[2024-08-22 14:51:14.996] [140362867116736] [Info] Started monitoring keyboard and mouse for clicks. Keyboard hits 0, mouse hits 0
+[2024-08-22 14:51:14.996] [140362867116736] [Info] Started monitoring for idle state
+[2024-08-22 14:51:14.997] [140362867116736] [Info] Showing update activity description dialog at tracking start
+[2024-08-22 14:51:14.998] [140362867116736] [Info] Activity window position: 758, 28 (relative position: 0.296094, 0.0175), dimensions: 522 x 50, screen: 0
+[2024-08-22 14:51:14.999] [140362867116736] [Info] Getting last entered description for project 1145774 ("(continue) adding shadow bindgroup")
+[2024-08-22 14:51:15.019] [140362704217664] [Info] Checking for data to send to the server
+[2024-08-22 14:51:15.019] [140362704217664] [Info] Sent create activity request (id: 452636803), activity id: 241465442, [Do. Aug. 22 14:51:14 2024 - Do. Aug. 22 14:51:14 2024], activity API id: 0, description: "(continue) adding shadow bindgroup", last changed: Do. Aug. 22 14:51:14 2024, last synced: never, offline: 0, keys: -1, clicks: -1
+[2024-08-22 14:51:15.247] [140362704217664] [Info] Received API id 141045944 for activity 241465442, request id: 452636803
+[2024-08-22 14:51:18.621] [140362867116736] [Info] Sending usage statistics: UI Control Interacted, type: Shortcut, title: Cancel Activity Description
+[2024-08-22 14:51:18.621] [140362867116736] [Info] Closing update activity description dialog
+[2024-08-22 14:52:15.078] [140362867116736] [Info] Service timeout, updating activity end time (id: 241465442)
+[2024-08-22 14:52:15.078] [140362867116736] [Info] Keyboard hits: 1
+[2024-08-22 14:52:15.078] [140362867116736] [Info] Mouse clicks: 0
+[2024-08-22 14:53:15.278] [140362867116736] [Info] Service timeout, updating activity end time (id: 241465442)
+[2024-08-22 14:53:15.278] [140362867116736] [Info] Keyboard hits: 1
+[2024-08-22 14:53:15.278] [140362867116736] [Info] Mouse clicks: 0
+[2024-08-22 14:54:15.477] [140362867116736] [Info] Service timeout, updating activity end time (id: 241465442)
+[2024-08-22 14:54:15.477] [140362867116736] [Info] Keyboard hits: 1
+[2024-08-22 14:54:15.478] [140362867116736] [Info] Mouse clicks: 0
+[2024-08-22 14:55:15.677] [140362867116736] [Info] Service timeout, updating activity end time (id: 241465442)
+[2024-08-22 14:55:15.677] [140362867116736] [Info] Keyboard hits: 1
+[2024-08-22 14:55:15.677] [140362867116736] [Info] Mouse clicks: 0
+[2024-08-22 14:56:15.878] [140362867116736] [Info] Service timeout, updating activity end time (id: 241465442)
+[2024-08-22 14:56:15.878] [140362867116736] [Info] Keyboard hits: 1
+[2024-08-22 14:56:15.879] [140362867116736] [Info] Mouse clicks: 0
+[2024-08-22 14:57:16.078] [140362867116736] [Info] Service timeout, updating activity end time (id: 241465442)
+[2024-08-22 14:57:16.078] [140362867116736] [Info] Keyboard hits: 1
+[2024-08-22 14:57:16.078] [140362867116736] [Info] Mouse clicks: 0
+[2024-08-22 14:58:16.278] [140362867116736] [Info] Service timeout, updating activity end time (id: 241465442)
+[2024-08-22 14:58:16.278] [140362867116736] [Info] Keyboard hits: 1
+[2024-08-22 14:58:16.278] [140362867116736] [Info] Mouse clicks: 0
+[2024-08-22 14:59:00.878] [140362867116736] [Info] Polling project list
+[2024-08-22 14:59:00.878] [140362867116736] [Info] Getting project list from the server (request id: 1561781480)
+[2024-08-22 14:59:01.055] [140362867116736] [Info] Project list received from the server (request id: 1561781480, list size: 1)
+                                                   IDs: 1145774
+[2024-08-22 14:59:16.478] [140362867116736] [Info] Service timeout, updating activity end time (id: 241465442)
+[2024-08-22 14:59:16.478] [140362867116736] [Info] Keyboard hits: 1
+[2024-08-22 14:59:16.478] [140362867116736] [Info] Mouse clicks: 0
+[2024-08-22 15:00:16.678] [140362867116736] [Info] Service timeout, updating activity end time (id: 241465442)
+[2024-08-22 15:00:16.678] [140362867116736] [Info] Keyboard hits: 1
+[2024-08-22 15:00:16.678] [140362867116736] [Info] Mouse clicks: 1
+[2024-08-22 15:01:14.995] [140362867116736] [Info] Reminding user to enter activity description at timed interval
+[2024-08-22 15:01:14.995] [140362867116736] [Info] Showing update activity description reminder dialog
+[2024-08-22 15:01:14.996] [140362867116736] [Info] Activity window position: 758, 28 (relative position: 0.296094, 0.0175), dimensions: 522 x 168, screen: 0
+[2024-08-22 15:01:14.997] [140362867116736] [Info] Getting last entered description for project 1145774 ("(continue) adding shadow bindgroup")
+[2024-08-22 15:01:16.878] [140362867116736] [Info] Service timeout, updating activity end time (id: 241465442)
+[2024-08-22 15:01:16.879] [140362867116736] [Info] Keyboard hits: 1
+[2024-08-22 15:01:16.879] [140362867116736] [Info] Mouse clicks: 2
+[2024-08-22 15:02:17.078] [140362867116736] [Info] Service timeout, updating activity end time (id: 241465442)
+[2024-08-22 15:02:17.079] [140362867116736] [Info] Keyboard hits: 27
+[2024-08-22 15:02:17.079] [140362867116736] [Info] Mouse clicks: 14
+[2024-08-22 15:03:17.278] [140362867116736] [Info] Service timeout, updating activity end time (id: 241465442)
+[2024-08-22 15:03:17.278] [140362867116736] [Info] Keyboard hits: 27
+[2024-08-22 15:03:17.278] [140362867116736] [Info] Mouse clicks: 22
+[2024-08-22 15:04:17.477] [140362867116736] [Info] Service timeout, updating activity end time (id: 241465442)
+[2024-08-22 15:04:17.477] [140362867116736] [Info] Keyboard hits: 27
+[2024-08-22 15:04:17.478] [140362867116736] [Info] Mouse clicks: 22
+[2024-08-22 15:06:15.078] [140362867116736] [Info] Making new snapshot at tracking interval
+[2024-08-22 15:06:15.080] [140362867116736] [Info] Keyboard hits: 27
+[2024-08-22 15:06:15.080] [140362867116736] [Info] Mouse clicks: 24
+[2024-08-22 15:06:15.080] [140362730264128] [Info] Capturing screenshot...
+[2024-08-22 15:06:15.081] [140362730264128] [Info] Taking individual screenshot of screen #0 - (size: 2560x1600+0+0, DPR 2)
+[2024-08-22 15:06:15.124] [140362730264128] [Info] Combining screenshots: rendering screenshot 2560x1600 to canvas 2560x1600+0+0)
+[2024-08-22 15:06:15.144] [140362730264128] [Info] Screenshot of screen #1 captured (size: 2560x1600@32, DPR: 1, blur: NO)
+[2024-08-22 15:06:15.190] [140362704217664] [Info] Checking for data to send to the server
+[2024-08-22 15:06:15.190] [140362704217664] [Info] Sent update activity request (id: 732444765), activity id: 241465442, [Do. Aug. 22 14:51:14 2024 - Do. Aug. 22 15:06:15 2024], activity API id: 141045944, description: "(continue) adding shadow bindgroup", last changed: Do. Aug. 22 15:06:15 2024, last synced: Do. Aug. 22 14:51:15 2024, offline: 0, keys: 27, clicks: 24
+[2024-08-22 15:06:15.343] [140362730264128] [Info] Final screenshot captured (total size: 2560x1600@32, DPR: 1, all displays: YES, blur: NO)
+[2024-08-22 15:06:15.344] [140362867116736] [Info] Showing review window
+[2024-08-22 15:06:15.407] [140362704217664] [Info] Activity update request successful (id: 241465442, request id: 732444765, type: 1)
+[2024-08-22 15:06:17.878] [140362867116736] [Info] Service timeout, updating activity end time (id: 241465442)
+[2024-08-22 15:06:17.878] [140362867116736] [Info] Keyboard hits: 27
+[2024-08-22 15:06:17.878] [140362867116736] [Info] Mouse clicks: 25
+[2024-08-22 15:06:19.599] [140362867116736] [Info] Snapshot 8 approved by the user
+[2024-08-22 15:06:19.599] [140362867116736] [Info] Uploading snapshot 8 screenshot to S3
+[2024-08-22 15:06:19.601] [140362867116736] [Info] Uploading file to S3
+                                                   ID: 1799963316
+                                                   Upload attempt: 1
+                                                   Starting upload...
+[2024-08-22 15:06:19.601] [140362867116736] [Info] Closing review window
+[2024-08-22 15:06:20.840] [140362867116736] [Info] File upload to S3 finished
+                                                   ID: 1799963316
+                                                   Success: YES
+                                                   Download URL: https://toptracker.s3.amazonaws.com/uploads/43168383aae50dd2927c909d68779693df30cb9f.PNG
+                                                   Error description: (None)
+[2024-08-22 15:06:20.840] [140362867116736] [Info] Sending create image request, id: 8, activity API id: 141045944, blur: 0, randomized: 0, type: screenshot, taken at: 2024-08-22T15:06:15+02:00
+[2024-08-22 15:06:21.047] [140362867116736] [Info] Image request 8 (screenshot) handled with code 204
+[2024-08-22 15:06:21.048] [140362867116736] [Info] Removing snapshot with id: 8, activity id: 241465442, state: 9, screenshotState: 11, camerashotState: 1
+[2024-08-22 15:07:18.078] [140362867116736] [Info] Service timeout, updating activity end time (id: 241465442)
+[2024-08-22 15:07:18.078] [140362867116736] [Info] Keyboard hits: 88
+[2024-08-22 15:07:18.079] [140362867116736] [Info] Mouse clicks: 35
+[2024-08-22 15:08:18.278] [140362867116736] [Info] Service timeout, updating activity end time (id: 241465442)
+[2024-08-22 15:08:18.278] [140362867116736] [Info] Keyboard hits: 131
+[2024-08-22 15:08:18.278] [140362867116736] [Info] Mouse clicks: 39
+[2024-08-22 15:09:18.478] [140362867116736] [Info] Service timeout, updating activity end time (id: 241465442)
+[2024-08-22 15:09:18.478] [140362867116736] [Info] Keyboard hits: 133
+[2024-08-22 15:09:18.479] [140362867116736] [Info] Mouse clicks: 45
+[2024-08-22 15:10:18.677] [140362867116736] [Info] Service timeout, updating activity end time (id: 241465442)
+[2024-08-22 15:10:18.678] [140362867116736] [Info] Keyboard hits: 171
+[2024-08-22 15:10:18.678] [140362867116736] [Info] Mouse clicks: 58
+[2024-08-22 15:11:14.996] [140362867116736] [Info] Reminding user to enter activity description at timed interval
+[2024-08-22 15:11:14.998] [140362867116736] [Info] Showing update activity description reminder dialog
+[2024-08-22 15:11:15.004] [140362867116736] [Info] Activity window position: 758, 28 (relative position: 0.296094, 0.0175), dimensions: 522 x 50, screen: 0
+[2024-08-22 15:11:15.005] [140362867116736] [Info] Getting last entered description for project 1145774 ("(continue) adding shadow bindgroup")
+[2024-08-22 15:11:18.878] [140362867116736] [Info] Service timeout, updating activity end time (id: 241465442)
+[2024-08-22 15:11:18.878] [140362867116736] [Info] Keyboard hits: 210
+[2024-08-22 15:11:18.878] [140362867116736] [Info] Mouse clicks: 75
+[2024-08-22 15:12:19.078] [140362867116736] [Info] Service timeout, updating activity end time (id: 241465442)
+[2024-08-22 15:12:19.078] [140362867116736] [Info] Keyboard hits: 267
+[2024-08-22 15:12:19.078] [140362867116736] [Info] Mouse clicks: 89
+[2024-08-22 15:13:19.278] [140362867116736] [Info] Service timeout, updating activity end time (id: 241465442)
+[2024-08-22 15:13:19.279] [140362867116736] [Info] Keyboard hits: 330
+[2024-08-22 15:13:19.279] [140362867116736] [Info] Mouse clicks: 104
+[2024-08-22 15:14:19.478] [140362867116736] [Info] Service timeout, updating activity end time (id: 241465442)
+[2024-08-22 15:14:19.478] [140362867116736] [Info] Keyboard hits: 416
+[2024-08-22 15:14:19.478] [140362867116736] [Info] Mouse clicks: 117
+[2024-08-22 15:15:19.681] [140362867116736] [Info] Service timeout, updating activity end time (id: 241465442)
+[2024-08-22 15:15:19.681] [140362867116736] [Info] Keyboard hits: 423
+[2024-08-22 15:15:19.683] [140362867116736] [Info] Mouse clicks: 118
+[2024-08-22 15:16:22.122] [140362867116736] [Info] Service timeout, updating activity end time (id: 241465442)
+[2024-08-22 15:16:22.126] [140362867116736] [Info] Keyboard hits: 423
+[2024-08-22 15:16:22.131] [140362867116736] [Info] Mouse clicks: 118
+[2024-08-22 15:17:22.079] [140362867116736] [Info] Service timeout, updating activity end time (id: 241465442)
+[2024-08-22 15:17:22.080] [140362867116736] [Info] Keyboard hits: 424
+[2024-08-22 15:17:22.080] [140362867116736] [Info] Mouse clicks: 119
+[2024-08-22 15:18:22.278] [140362867116736] [Info] Service timeout, updating activity end time (id: 241465442)
+[2024-08-22 15:18:22.278] [140362867116736] [Info] Keyboard hits: 431
+[2024-08-22 15:18:22.278] [140362867116736] [Info] Mouse clicks: 146
+[2024-08-22 15:19:22.478] [140362867116736] [Info] Service timeout, updating activity end time (id: 241465442)
+[2024-08-22 15:19:22.478] [140362867116736] [Info] Keyboard hits: 434
+[2024-08-22 15:19:22.479] [140362867116736] [Info] Mouse clicks: 164
+[2024-08-22 15:19:29.514] [140362867116736] [Info] Sending usage statistics: UI Control Interacted, type: Button, title: Main Window Stop Tracking
+[2024-08-22 15:19:29.514] [140362867116736] [Info] Tracking stop requested (project id: 1145774)
+[2024-08-22 15:19:29.515] [140362867116736] [Info] Sending usage statistics: Time Tracked
+[2024-08-22 15:19:29.525] [140362867116736] [Info] Updating last worked time for a project in the work log:
+                                                   project id: 1145774, last worked: 2024-08-22T15:19:29, seconds: 9034
+[2024-08-22 15:19:29.543] [140362867116736] [Info] Saving work log to local storage
+[2024-08-22 15:19:29.543] [140362867116736] [Info] Tracking stopped (project id: 1145774)
+[2024-08-22 15:19:29.543] [140362867116736] [Info] Keyboard hits: 436
+[2024-08-22 15:19:29.544] [140362867116736] [Info] Mouse clicks: 167
+[2024-08-22 15:19:29.554] [140362867116736] [Info] Setting option 'tracking-interval' to '15'
+[2024-08-22 15:19:29.569] [140362867116736] [Info] Setting option 'take-screenshots' to 'true'
+[2024-08-22 15:19:29.569] [140362867116736] [Info] Updating settings backup of "Allow screenshots" to true
+[2024-08-22 15:19:29.569] [140362867116736] [Info] Setting option 'randomized-tracking' to 'false'
+[2024-08-22 15:19:29.610] [140362867116736] [Info] Setting option 'track-keyboard-hits' to 'true'
+[2024-08-22 15:19:29.625] [140362867116736] [Info] Stopped input monitoring for clicks. Keyboard hits 436, mouse hits 167
+[2024-08-22 15:19:29.635] [140362867116736] [Info] Started monitoring keyboard and mouse for clicks. Keyboard hits 436, mouse hits 167
+[2024-08-22 15:19:29.636] [140362867116736] [Info] Setting option 'track-mouse-clicks' to 'true'
+[2024-08-22 15:19:29.686] [140362867116736] [Info] Stopped input monitoring for clicks. Keyboard hits 436, mouse hits 167
+[2024-08-22 15:19:29.686] [140362867116736] [Info] Started monitoring keyboard and mouse for clicks. Keyboard hits 436, mouse hits 167
+[2024-08-22 15:19:29.737] [140362867116736] [Info] Stopped input monitoring for clicks. Keyboard hits 436, mouse hits 167
+[2024-08-22 15:19:29.738] [140362867116736] [Info] Stopped monitoring for idle state
+[2024-08-22 15:19:29.743] [140362867116736] [Info] Getting last entered description for project 1145774 ("(continue) adding shadow bindgroup")
+[2024-08-22 15:19:29.746] [140362704217664] [Info] Checking for data to send to the server
+[2024-08-22 15:19:29.746] [140362704217664] [Info] Sent update activity request (id: 1817922484), activity id: 241465442, [Do. Aug. 22 14:51:14 2024 - Do. Aug. 22 15:19:29 2024], activity API id: 141045944, description: "(continue) adding shadow bindgroup", last changed: Do. Aug. 22 15:19:29 2024, last synced: Do. Aug. 22 15:06:15 2024, offline: 0, keys: 436, clicks: 167
+[2024-08-22 15:19:30.001] [140362704217664] [Info] Activity update request successful (id: 241465442, request id: 1817922484, type: 1)
+[2024-08-22 15:20:00.878] [140362867116736] [Info] Polling project list
+[2024-08-22 15:20:00.878] [140362867116736] [Info] Getting project list from the server (request id: 97229852)
+[2024-08-22 15:20:01.047] [140362867116736] [Info] Project list received from the server (request id: 97229852, list size: 1)
+                                                   IDs: 1145774
+[2024-08-22 15:57:49.457] [140362867116736] [Info] Internet connection lost
+[2024-08-22 15:57:49.458] [140362867116736] [Info] Application is offline
+[2024-08-22 15:59:49.459] [140362867116736] [Info] Internet connection detected
+[2024-08-22 16:15:13.987] [140362867116736] [Info] Internet connection lost
+[2024-08-22 18:13:14.685] [140362867116736] [Info] Internet connection detected
+[2024-08-22 18:13:14.902] [140362867116736] [Info] Application is online
+[2024-08-22 18:37:36.728] [140362867116736] [Info] Internet connection lost
+[2024-08-22 18:37:36.729] [140362867116736] [Info] Application is offline
+[2024-08-22 18:37:46.698] [140362867116736] [Info] Internet connection detected
+[2024-08-22 18:38:16.935] [140362867116736] [Info] Application is online
+[2024-08-22 21:12:42.550] [140362867116736] [Info] Internet connection lost
+[2024-08-22 21:12:42.550] [140362867116736] [Info] Application is offline
+[2024-08-22 21:12:52.555] [140362867116736] [Info] Internet connection detected
+[2024-08-22 21:13:22.800] [140362867116736] [Info] Application is online
+[2024-08-22 23:57:08.214] [140362867116736] [Info] Application is offline
+[2024-08-22 23:57:28.465] [140362867116736] [Info] Application is online
+[2024-08-22 23:58:18.440] [140362867116736] [Info] Internet connection lost
+[2024-08-22 23:58:18.445] [140362867116736] [Info] Application is offline
+[2024-08-23 12:11:55.110] [140362867116736] [Info] Internet connection detected
+[2024-08-23 12:12:25.595] [140362867116736] [Info] Application is online
+[2024-08-23 12:57:01.224] [140362867116736] [Info] Internet connection lost
+[2024-08-23 12:57:01.225] [140362867116736] [Info] Application is offline
+[2024-08-23 12:57:11.219] [140362867116736] [Info] Internet connection detected
+[2024-08-23 12:57:41.508] [140362867116736] [Info] Application is online
+[2024-08-23 13:27:47.212] [140362867116736] [Info] Internet connection lost
+[2024-08-23 13:27:47.212] [140362867116736] [Info] Application is offline
+[2024-08-23 13:27:57.221] [140362867116736] [Info] Internet connection detected
+[2024-08-23 13:28:27.506] [140362867116736] [Info] Application is online
+[2024-08-23 14:24:49.590] [140362867116736] [Info] Internet connection lost
+[2024-08-23 14:24:49.590] [140362867116736] [Info] Application is offline
+[2024-08-23 14:24:59.571] [140362867116736] [Info] Internet connection detected
+[2024-08-23 14:24:59.947] [140362867116736] [Info] Application is online
+[2024-08-23 14:46:39.073] [140362867116736] [Info] Internet connection lost
+[2024-08-23 14:46:39.073] [140362867116736] [Info] Application is offline
+[2024-08-23 14:46:49.086] [140362867116736] [Info] Internet connection detected
+[2024-08-23 14:47:19.361] [140362867116736] [Info] Application is online
+[2024-08-23 15:18:31.974] [140362867116736] [Info] Application is offline
+[2024-08-23 15:18:52.247] [140362867116736] [Info] Application is online
+[2024-08-23 15:51:20.491] [140362867116736] [Info] Internet connection lost
+[2024-08-23 15:51:20.492] [140362867116736] [Info] Application is offline
+[2024-08-23 15:51:30.492] [140362867116736] [Info] Internet connection detected
+[2024-08-23 15:52:00.775] [140362867116736] [Info] Application is online
+[2024-08-23 17:31:55.588] [140362867116736] [Info] Internet connection lost
+[2024-08-23 17:31:55.588] [140362867116736] [Info] Application is offline
+[2024-08-23 17:32:05.595] [140362867116736] [Info] Internet connection detected
+[2024-08-23 17:32:35.844] [140362867116736] [Info] Application is online
+[2024-08-23 17:38:34.965] [140362867116736] [Info] Internet connection lost
+[2024-08-23 17:38:34.965] [140362867116736] [Info] Application is offline
+[2024-08-23 21:02:10.251] [140362867116736] [Info] Internet connection detected
+[2024-08-23 21:02:10.509] [140362867116736] [Info] Application is online
+[2024-08-23 22:56:34.853] [140362867116736] [Info] Internet connection lost
+[2024-08-23 22:56:34.854] [140362867116736] [Info] Application is offline
+[2024-08-23 22:56:44.844] [140362867116736] [Info] Internet connection detected
+[2024-08-23 22:57:15.153] [140362867116736] [Info] Application is online
+[2024-08-23 23:16:20.947] [140362867116736] [Info] Internet connection lost
+[2024-08-23 23:16:20.947] [140362867116736] [Info] Application is offline
+[2024-08-23 23:16:30.946] [140362867116736] [Info] Internet connection detected
+[2024-08-23 23:17:01.402] [140362867116736] [Info] Application is online

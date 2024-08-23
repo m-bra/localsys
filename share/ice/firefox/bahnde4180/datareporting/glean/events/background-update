@@ -1,0 +1,3 @@
+{"timestamp":12056146,"category":"nimbus_events","name":"validation_failed","extra":{"feature":"accessibilityCache","experiment":"next-generation-accessibility-engine-powering-screen-readers","reason":"invalid-feature"}}
+{"timestamp":12056146,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","experiment":"next-generation-accessibility-engine-powering-screen-readers-and-other-ats-copy","feature":"accessibilityCache"}}
+{"timestamp":12085378,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","feature":"accessibilityCache","experiment":"next-generation-accessibility-engine-powering-screen-readers"}}

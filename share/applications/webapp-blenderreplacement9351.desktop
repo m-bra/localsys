@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Name=3D-model viewer
+Comment=Web App
+Exec=sh -c 'XAPP_FORCE_GTKWINDOW_ICON="/home/mbrandt/.local/share/ice/icons/Dmodelviewer.png" firefox --class WebApp-blenderreplacement9351 --profile /home/mbrandt/.local/share/ice/firefox/blenderreplacement9351 --no-remote "http://3dviewer.net"'
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/mbrandt/.local/share/ice/icons/Dmodelviewer.png
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-blenderreplacement9351
+StartupNotify=true
+X-WebApp-Browser=Firefox
+X-WebApp-URL=http://3dviewer.net
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true
+

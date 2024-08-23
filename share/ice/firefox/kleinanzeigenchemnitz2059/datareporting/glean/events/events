@@ -1,0 +1,5 @@
+{"timestamp":14565967,"category":"fog.validation","name":"validate_early_event"}
+{"timestamp":14567317,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","experiment":"next-generation-accessibility-engine-powering-screen-readers","feature":"accessibilityCache"}}
+{"timestamp":14571368,"category":"translations.panel","name":"open","extra":{"flow_id":"cebcf2e3-9b45-4790-9420-c63818f125f7","auto_show":"true","view_name":"defaultView","first_interaction":"false","document_language":"de","opened_from":"translationsButton"}}
+{"timestamp":14571708,"category":"translations.panel","name":"close","extra":{"flow_id":"cebcf2e3-9b45-4790-9420-c63818f125f7","first_interaction":"false"}}
+{"timestamp":14596604,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","feature":"accessibilityCache","experiment":"next-generation-accessibility-engine-powering-screen-readers"}}

@@ -1,0 +1,7 @@
+https:push.services.mozilla.com:443:.::3	1	19655	https:push.services.mozilla.com:443:push.services.mozilla.com:443::n:1700842104:h3:y:1698168538:n::|n:y:
+https:safebrowsing.googleapis.com:443:.:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:3	1	19654	https:safebrowsing.googleapis.com:443:safebrowsing.googleapis.com:443::n:1700766628:h3:y:1697994766:n:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:|n:y:
+https:versioncheck-bg.addons.mozilla.org:443:.::3	9	19654	https:versioncheck-bg.addons.mozilla.org:443:versioncheck-bg.addons.mozilla.org:443::n:1700760569:h3:y:1696102332:n::|n:y:
+https:fonts.gstatic.com:443:.:^partitionKey=%28https%2Cmemomaps.de%29:3	0	19619	https:fonts.gstatic.com:443:fonts.gstatic.com:443::n:1697732968:h3:y:1695140928:n:^partitionKey=%28https%2Cmemomaps.de%29:|n:y:
+https:support.mozilla.org:443:.:^userContextId=5&partitionKey=%28https%2Cmozilla.org%29:3	0	19652	https:support.mozilla.org:443:support.mozilla.org:443::n:1700586768:h3:y:1697994766:n:^userContextId=5&partitionKey=%28https%2Cmozilla.org%29:|n:y:
+https:tile.openstreetmap.org:443:.:^partitionKey=%28https%2Copenstreetmap.org%29:3	0	19654	https:tile.openstreetmap.org:443:tile.openstreetmap.org:443::n:1698255008:h3:y:1698168538:n:^partitionKey=%28https%2Copenstreetmap.org%29:|n:y:
+https:fonts.googleapis.com:443:.:^partitionKey=%28https%2Cmemomaps.de%29:3	0	19619	https:fonts.googleapis.com:443:fonts.googleapis.com:443::n:1697732966:h3:y:1695140928:n:^partitionKey=%28https%2Cmemomaps.de%29:|n:y:

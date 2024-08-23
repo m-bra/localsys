@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=openstreetmap.org
+Comment=Web App
+Exec=sh -c 'XAPP_FORCE_GTKWINDOW_ICON="/home/mbrandt/.local/share/ice/icons/openstreetmaporg.png" firefox --class WebApp-openstreetmaporg0794 --profile /home/mbrandt/.local/share/ice/firefox/openstreetmaporg0794 --no-remote "http://openstreetmap.org"'
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/mbrandt/.local/share/ice/icons/openstreetmaporg.png
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-openstreetmaporg0794
+StartupNotify=true
+X-WebApp-Browser=Firefox
+X-WebApp-URL=http://openstreetmap.org
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true

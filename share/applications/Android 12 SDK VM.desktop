@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Android 12 SDK VM
+Exec=androidvm12
+Comment=
+Terminal=false
+PrefersNonDefaultGPU=false
+Icon=cinnamon-panel-launcher
+Type=Application

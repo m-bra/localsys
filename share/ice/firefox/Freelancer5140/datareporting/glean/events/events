@@ -1,0 +1,3 @@
+{"timestamp":2037709,"category":"fog.validation","name":"validate_early_event"}
+{"timestamp":2041907,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","feature":"accessibilityCache","experiment":"next-generation-accessibility-engine-powering-screen-readers"}}
+{"timestamp":2041907,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","feature":"accessibilityCache","experiment":"next-generation-accessibility-engine-powering-screen-readers-and-other-ats-copy"}}

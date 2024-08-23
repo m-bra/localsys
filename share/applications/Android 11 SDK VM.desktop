@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Android 11 SDK VM
+Exec=androidvm11
+Comment=
+Terminal=false
+PrefersNonDefaultGPU=false
+Icon=cinnamon-panel-launcher
+Type=Application

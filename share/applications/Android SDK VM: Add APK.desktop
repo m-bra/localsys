@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Android SDK VM: Add APK
+Exec=androidvm-install
+Comment=
+Terminal=false
+PrefersNonDefaultGPU=false
+Icon=cinnamon-panel-launcher
+Type=Application

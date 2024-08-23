@@ -1,0 +1,7 @@
+https:push.services.mozilla.com:443:.::3	4	19677	https:push.services.mozilla.com:443:push.services.mozilla.com:443::n:1702691759:h3:y:1695770857:n::|n:y:
+https:region1.analytics.google.com:443:.:^partitionKey=%28https%2C3dviewer.net%29:3	4	19677	https:region1.analytics.google.com:443:region1.analytics.google.com:443::n:1702691770:h3:y:1695770857:n:^partitionKey=%28https%2C3dviewer.net%29:|n:y:
+https:safebrowsing.googleapis.com:443:.:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:3	4	19677	https:safebrowsing.googleapis.com:443:safebrowsing.googleapis.com:443::n:1702691758:h3:y:1695770857:n:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:|n:y:
+https:versioncheck-bg.addons.mozilla.org:443:.::3	1	19677	https:versioncheck-bg.addons.mozilla.org:443:versioncheck-bg.addons.mozilla.org:443::n:1702691782:h3:y:1698769949:n::|n:y:
+https:www.google.ch:443:.:^partitionKey=%28https%2C3dviewer.net%29:3	0	19661	https:www.google.ch:443:www.google.ch:443::n:1701361955:h3:y:1698769949:n:^partitionKey=%28https%2C3dviewer.net%29:|n:y:
+https:www.googletagmanager.com:443:.:^partitionKey=%28https%2C3dviewer.net%29:3	4	19677	https:www.googletagmanager.com:443:www.googletagmanager.com:443::n:1702691753:h3:y:1695770857:n:^partitionKey=%28https%2C3dviewer.net%29:|n:y:
+https:www.google.de:443:.:^partitionKey=%28https%2C3dviewer.net%29:3	0	19677	https:www.google.de:443:www.google.de:443::n:1702691759:h3:y:1700099752:n:^partitionKey=%28https%2C3dviewer.net%29:|n:y:

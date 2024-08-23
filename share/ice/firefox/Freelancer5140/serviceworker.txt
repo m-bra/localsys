@@ -1,0 +1,13 @@
+9
+
+https://www.freelancer.com/
+https://www.freelancer.com/ngsw-worker.js
+true
+{a3ceb325-ca84-4371-9acd-811566e65dcf}
+0
+1694517460325507
+1694517460330661
+1694517460218342
+0
+true
+#

@@ -1,0 +1,13 @@
+9
+
+https://www.instagram.com/
+https://www.instagram.com/www-service-worker.js?s=push&__d=www&enableAddToHomeScreen=false
+false
+{523e34fd-ed24-4591-92a1-7eda34487213}
+0
+1724446804534493
+1724446804540431
+1724446804278490
+0
+true
+#

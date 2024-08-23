@@ -1,0 +1,1769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/mbrandt/Downloads/alte-schwabacher.regular.ttf" added="2024-08-20T09:33:36.829938Z" modified="2024-08-20T09:33:37.435984Z" visited="2024-08-20T09:33:36.829939Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-08-20T09:33:37.435973Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/Bibel" added="2024-08-20T12:39:45.463508Z" modified="2024-08-20T12:39:45.463513Z" visited="2024-08-20T12:39:45.463509Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-20T12:39:45.463510Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/Bibel.odt" added="2024-08-20T12:39:46.283125Z" modified="2024-08-22T07:11:33.184032Z" visited="2024-08-20T12:39:46.283126Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-22T07:11:33.184031Z" count="19"/>
+          <bookmark:application name="nemo" exec="&apos;libreoffice --writer %U&apos;" modified="2024-08-21T10:45:16.027603Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/Downloads/image-from-rawpixel-id-6182487-jpeg.jpg" added="2024-08-20T12:49:09.066891Z" modified="2024-08-23T10:46:56.702374Z" visited="2024-08-20T12:49:09.066892Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-08-23T10:46:56.702368Z" count="3"/>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-20T12:49:36.651255Z" count="3"/>
+          <bookmark:application name="nemo" exec="&apos;gimp-2.10 %U&apos;" modified="2024-08-20T12:49:47.273520Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2024-08-20T12:49:51.347078Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/Downloads/curtain_motif_template_classical_damask_flowers_pattern_decor_6929462.zip" added="2024-08-20T12:53:41.270468Z" modified="2024-08-20T12:54:40.151947Z" visited="2024-08-20T12:53:41.270469Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-08-20T12:53:41.270475Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-08-20T12:54:40.151944Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/Downloads/damask_seamless_pattern_art_background_579129.zip" added="2024-08-20T12:54:18.041264Z" modified="2024-08-20T12:54:24.321132Z" visited="2024-08-20T12:54:18.041266Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-08-20T12:54:21.159277Z" count="2"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-08-20T12:54:24.321130Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/.cache/.fr-dpJiwZ/Curtain%20motif%20design%20ornate%20Damask%20flower.eps" added="2024-08-20T12:54:42.086945Z" modified="2024-08-20T12:54:42.086951Z" visited="2024-08-20T12:54:42.086946Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/x-eps"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;xreader %u&apos;" modified="2024-08-20T12:54:42.086948Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/.cache/.fr-3EpfLf/Curtain%20motif%20design%20ornate%20Damask%20flower.jpg" added="2024-08-20T12:54:45.437635Z" modified="2024-08-20T12:54:45.437641Z" visited="2024-08-20T12:54:45.437636Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-20T12:54:45.437638Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/.cache/.fr-flH3us/Curtain%20motif%20design%20ornate%20Damask%20flower.svg" added="2024-08-20T12:54:48.808176Z" modified="2024-08-20T12:54:48.808184Z" visited="2024-08-20T12:54:48.808177Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-20T12:54:48.808181Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/Downloads/vecteezy_classic-dark-brown-flower-and-cream-seamless-pattern-for_3788608_570.zip" added="2024-08-20T12:56:34.297586Z" modified="2024-08-21T13:32:40.496412Z" visited="2024-08-20T12:56:34.297588Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-08-20T12:56:34.786954Z" count="2"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-08-21T13:32:40.496411Z" count="2"/>
+          <bookmark:application name="nemo" exec="&apos;file-roller %U&apos;" modified="2024-08-21T13:32:40.181686Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/.cache/.fr-RLlg5p/vecteezy_classic-dark-brown-flower-and-cream-seamless-pattern-for_3788608.eps" added="2024-08-20T12:56:38.289050Z" modified="2024-08-20T12:56:38.289057Z" visited="2024-08-20T12:56:38.289051Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/x-eps"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;xreader %u&apos;" modified="2024-08-20T12:56:38.289054Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/.cache/.fr-hQEsDS/vecteezy_classic-dark-brown-flower-and-cream-seamless-pattern-for_3788608.jpg" added="2024-08-20T12:56:48.079072Z" modified="2024-08-20T12:56:48.079080Z" visited="2024-08-20T12:56:48.079073Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-20T12:56:48.079077Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/.local/share/meld/recent-oe6v52lq.meldcmp" added="2024-08-20T13:02:25.470359Z" modified="2024-08-20T13:02:25.470364Z" visited="2024-08-20T13:02:25.470360Z">
+    <title>[src] context.rs : [src.fresh] context.rs</title>
+    <desc>File comparison
+file:///home/mbrandt/mnt/data/juneau.rust/packages/neptune/client/src/draw/context.rs, file:///home/mbrandt/mnt/data/juneau.rust/packages/neptune/client/src.fresh/draw/context.rs</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-meld-comparison"/>
+        <bookmark:applications>
+          <bookmark:application name="Meld" exec="&apos;/usr/bin/meld --comparison-file %u&apos;" modified="2024-08-20T13:02:25.470362Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/.local/share/meld/recent-9plb77im.meldcmp" added="2024-08-20T13:03:05.861128Z" modified="2024-08-20T13:03:05.861133Z" visited="2024-08-20T13:03:05.861129Z">
+    <title>[src] model.rs : [src.fresh] model.rs</title>
+    <desc>File comparison
+file:///home/mbrandt/mnt/data/juneau.rust/packages/neptune/client/src/draw/world/model.rs, file:///home/mbrandt/mnt/data/juneau.rust/packages/neptune/client/src.fresh/draw/world/model.rs</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-meld-comparison"/>
+        <bookmark:applications>
+          <bookmark:application name="Meld" exec="&apos;/usr/bin/meld --comparison-file %u&apos;" modified="2024-08-20T13:03:05.861131Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/.local/share/meld/recent-9jrnujdd.meldcmp" added="2024-08-20T13:03:26.821499Z" modified="2024-08-20T13:03:26.821505Z" visited="2024-08-20T13:03:26.821500Z">
+    <title>[src] main.rs : [src.fresh] main.rs</title>
+    <desc>File comparison
+file:///home/mbrandt/mnt/data/juneau.rust/packages/neptune/client/src/main.rs, file:///home/mbrandt/mnt/data/juneau.rust/packages/neptune/client/src.fresh/main.rs</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-meld-comparison"/>
+        <bookmark:applications>
+          <bookmark:application name="Meld" exec="&apos;/usr/bin/meld --comparison-file %u&apos;" modified="2024-08-20T13:03:26.821502Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/order_9047265.pdf" added="2024-08-20T20:47:30.011344Z" modified="2024-08-20T20:47:30.011354Z" visited="2024-08-20T20:47:30.011346Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-08-20T20:47:30.011350Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/Downloads/order_9047265.pdf" added="2024-08-20T20:47:34.364906Z" modified="2024-08-20T20:47:34.732822Z" visited="2024-08-20T20:47:34.364908Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-08-20T20:47:34.732807Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/permanent/Bank.txt" added="2024-08-20T21:14:45.736256Z" modified="2024-08-20T21:14:56.842856Z" visited="2024-08-20T21:14:45.736258Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2024-08-20T21:14:56.842850Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/AUD-20230303-WA0002.mp3" added="2024-08-20T21:19:17.974988Z" modified="2024-08-20T21:19:17.974993Z" visited="2024-08-20T21:19:17.974989Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;celluloid %U&apos;" modified="2024-08-20T21:19:17.974991Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/AUD-20230703-WA0001.aac" added="2024-08-20T21:19:24.577132Z" modified="2024-08-20T21:19:28.832468Z" visited="2024-08-20T21:19:24.577137Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/aac"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;env UBUNTU_MENUPROXY=0 GDK_BACKEND=x11 audacity %F&apos;" modified="2024-08-20T21:19:28.832460Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/AUD-20231001-WA0004.m4a" added="2024-08-20T21:19:45.661908Z" modified="2024-08-20T21:19:45.661916Z" visited="2024-08-20T21:19:45.661910Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;celluloid %U&apos;" modified="2024-08-20T21:19:45.661912Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/AUD-20231022-WA0006.m4a" added="2024-08-20T21:20:00.503322Z" modified="2024-08-20T21:20:00.503331Z" visited="2024-08-20T21:20:00.503325Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;celluloid %U&apos;" modified="2024-08-20T21:20:00.503327Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/AUD-20231112-WA0001.m4a" added="2024-08-20T21:20:11.545730Z" modified="2024-08-20T21:20:11.545748Z" visited="2024-08-20T21:20:11.545734Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;celluloid %U&apos;" modified="2024-08-20T21:20:11.545740Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/AUD-20231119-WA0002.m4a" added="2024-08-20T21:20:19.280376Z" modified="2024-08-20T21:20:19.280418Z" visited="2024-08-20T21:20:19.280377Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;celluloid %U&apos;" modified="2024-08-20T21:20:19.280414Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/AUD-20231217-WA0000.m4a" added="2024-08-20T21:20:19.280539Z" modified="2024-08-20T21:20:19.280543Z" visited="2024-08-20T21:20:19.280539Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;celluloid %U&apos;" modified="2024-08-20T21:20:19.280541Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/AUD-20231217-WA0001.m4a" added="2024-08-20T21:20:19.280565Z" modified="2024-08-20T21:20:19.280569Z" visited="2024-08-20T21:20:19.280566Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;celluloid %U&apos;" modified="2024-08-20T21:20:19.280567Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/AUD-20231225-WA0002.m4a" added="2024-08-20T21:20:19.280588Z" modified="2024-08-20T21:20:19.280592Z" visited="2024-08-20T21:20:19.280589Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;celluloid %U&apos;" modified="2024-08-20T21:20:19.280591Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/AUD-20231225-WA0003.m4a" added="2024-08-20T21:20:19.280611Z" modified="2024-08-20T21:20:19.280614Z" visited="2024-08-20T21:20:19.280611Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;celluloid %U&apos;" modified="2024-08-20T21:20:19.280612Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/AUD-20231225-WA0004.m4a" added="2024-08-20T21:20:19.280631Z" modified="2024-08-20T21:20:19.280635Z" visited="2024-08-20T21:20:19.280631Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;celluloid %U&apos;" modified="2024-08-20T21:20:19.280633Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/AUD-20231225-WA0006.m4a" added="2024-08-20T21:20:19.280651Z" modified="2024-08-20T21:20:19.280655Z" visited="2024-08-20T21:20:19.280651Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;celluloid %U&apos;" modified="2024-08-20T21:20:19.280653Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/AUD-20231225-WA0007.m4a" added="2024-08-20T21:20:19.280677Z" modified="2024-08-20T21:20:19.280681Z" visited="2024-08-20T21:20:19.280677Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;celluloid %U&apos;" modified="2024-08-20T21:20:19.280679Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/AUD-20231225-WA0010.m4a" added="2024-08-20T21:20:19.280698Z" modified="2024-08-20T21:20:19.280735Z" visited="2024-08-20T21:20:19.280699Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;celluloid %U&apos;" modified="2024-08-20T21:20:19.280700Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/AUD-20240211-WA0006.mp3" added="2024-08-20T21:20:19.280756Z" modified="2024-08-20T21:20:19.280791Z" visited="2024-08-20T21:20:19.280757Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;celluloid %U&apos;" modified="2024-08-20T21:20:19.280788Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/AUD-20240211-WA0007.mp3" added="2024-08-20T21:20:19.280843Z" modified="2024-08-20T21:20:19.280848Z" visited="2024-08-20T21:20:19.280844Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;celluloid %U&apos;" modified="2024-08-20T21:20:19.280846Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/AUD-20240211-WA0008.mp3" added="2024-08-20T21:20:19.280928Z" modified="2024-08-20T21:20:19.280941Z" visited="2024-08-20T21:20:19.280929Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;celluloid %U&apos;" modified="2024-08-20T21:20:19.280930Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/AUD-20240218-WA0001.m4a" added="2024-08-20T21:20:19.280957Z" modified="2024-08-20T21:20:19.280960Z" visited="2024-08-20T21:20:19.280957Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;celluloid %U&apos;" modified="2024-08-20T21:20:19.280958Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/AUD-20240218-WA0002.m4a" added="2024-08-20T21:20:19.280976Z" modified="2024-08-20T21:20:19.280979Z" visited="2024-08-20T21:20:19.280976Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;celluloid %U&apos;" modified="2024-08-20T21:20:19.280977Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/DCIM/Camera/IMG_20230716_215255.jpg" added="2024-08-20T21:23:53.069186Z" modified="2024-08-20T21:24:56.881058Z" visited="2024-08-20T21:23:53.069191Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;xviewer %U&apos;" modified="2024-08-20T21:24:56.190474Z" count="2"/>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-20T21:24:56.881056Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/DCIM/Camera/IMG_20240816_091645.jpg" added="2024-08-20T21:24:09.400191Z" modified="2024-08-20T21:24:41.649218Z" visited="2024-08-20T21:24:09.400195Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;xviewer %U&apos;" modified="2024-08-20T21:24:09.400205Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-20T21:24:41.649215Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/DCIM/Camera/IMG_20240815_072924.jpg" added="2024-08-20T21:24:17.985729Z" modified="2024-08-20T21:24:52.265676Z" visited="2024-08-20T21:24:17.985734Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;xviewer %U&apos;" modified="2024-08-20T21:24:50.950527Z" count="2"/>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-20T21:24:52.265673Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/DCIM/Camera/IMG_20240815_071152.jpg" added="2024-08-20T21:24:19.857992Z" modified="2024-08-20T21:24:40.197782Z" visited="2024-08-20T21:24:19.857993Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-20T21:24:40.197769Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/DCIM/Camera/IMG_20240815_071146.jpg" added="2024-08-20T21:24:20.913333Z" modified="2024-08-20T21:25:12.866503Z" visited="2024-08-20T21:24:20.913337Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-20T21:24:47.483656Z" count="3"/>
+          <bookmark:application name="nemo" exec="&apos;xviewer %U&apos;" modified="2024-08-20T21:25:12.866487Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/DCIM/Camera/IMG_20240819_164540.jpg" added="2024-08-20T21:24:21.860491Z" modified="2024-08-20T21:24:45.589888Z" visited="2024-08-20T21:24:21.860492Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-20T21:24:45.589867Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/DCIM/Camera/IMG_20240817_180235.jpg" added="2024-08-20T21:24:23.590892Z" modified="2024-08-20T21:24:44.771366Z" visited="2024-08-20T21:24:23.590893Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-20T21:24:44.771363Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/DCIM/Camera/IMG_20240817_180227.jpg" added="2024-08-20T21:24:42.779727Z" modified="2024-08-20T21:24:42.779732Z" visited="2024-08-20T21:24:42.779727Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-20T21:24:42.779730Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/DCIM/Camera/IMG_20240817_180232.jpg" added="2024-08-20T21:24:43.870810Z" modified="2024-08-20T21:24:43.870817Z" visited="2024-08-20T21:24:43.870811Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-20T21:24:43.870814Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/android/DCIM/Camera/IMG_20240815_071152.jpg.tmp" added="2024-08-20T21:24:50.161323Z" modified="2024-08-20T21:24:50.161341Z" visited="2024-08-20T21:24:50.161326Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/skypeforlinux --share-file=%f&apos;" modified="2024-08-20T21:24:50.161334Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/Interner%20gemeinsamer%20Speicher/Download/MiuiFastConnect/00000000-4.zip" added="2024-08-20T21:26:59.374190Z" modified="2024-08-20T21:26:59.739454Z" visited="2024-08-20T21:26:59.374191Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;file-roller %U&apos;" modified="2024-08-20T21:26:59.374195Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-08-20T21:26:59.739451Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/Interner%20gemeinsamer%20Speicher/Download/MiuiFastConnect/00000000-15.zip" added="2024-08-20T21:27:02.467594Z" modified="2024-08-20T21:27:02.467602Z" visited="2024-08-20T21:27:02.467594Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-08-20T21:27:02.467600Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/Interner%20gemeinsamer%20Speicher/Download/2024-06-03-22-45-43.ogg" added="2024-08-20T21:27:32.334255Z" modified="2024-08-20T21:27:32.334261Z" visited="2024-08-20T21:27:32.334257Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/ogg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;celluloid %U&apos;" modified="2024-08-20T21:27:32.334259Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/Interner%20gemeinsamer%20Speicher/Download/%C5%BD%C3%81DOST%20POJI%C5%A0T%C4%9ANCE%20O%20n%C3%A1hradu%20n%C3%A1klad%C5%AF%20vynalo%C5%BEen%C3%BDch%20na%20zdravotn%C3%AD%20slu%C5%BEby%20poskytnut%C3%A9%20v%20(1).docx" added="2024-08-20T21:27:43.361280Z" modified="2024-08-20T21:27:43.361299Z" visited="2024-08-20T21:27:43.361284Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;libreoffice --writer %U&apos;" modified="2024-08-20T21:27:43.361289Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/Interner%20gemeinsamer%20Speicher/Download/4541443210_faktura%20(5).pdf" added="2024-08-20T21:27:51.356724Z" modified="2024-08-20T21:27:51.971843Z" visited="2024-08-20T21:27:51.356728Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;xreader %U&apos;" modified="2024-08-20T21:27:51.356738Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;xreader %u&apos;" modified="2024-08-20T21:27:51.971840Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/Interner%20gemeinsamer%20Speicher/Download/POLICIE.pdf" added="2024-08-20T21:28:59.699386Z" modified="2024-08-20T21:29:03.932047Z" visited="2024-08-20T21:28:59.699387Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;xreader %u&apos;" modified="2024-08-20T21:29:03.932045Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/Interner%20gemeinsamer%20Speicher/Download/4541443210_faktura%20(6).pdf" added="2024-08-20T21:29:26.871217Z" modified="2024-08-20T21:29:26.871223Z" visited="2024-08-20T21:29:26.871218Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;xreader %u&apos;" modified="2024-08-20T21:29:26.871220Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/Interner%20gemeinsamer%20Speicher/Download/NUQF7M%20(1).pdf" added="2024-08-20T21:29:32.639764Z" modified="2024-08-20T21:29:35.677990Z" visited="2024-08-20T21:29:32.639765Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;xreader %u&apos;" modified="2024-08-20T21:29:35.677988Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/Interner%20gemeinsamer%20Speicher/Download/4541443210_faktura%20(11).pdf" added="2024-08-20T21:29:43.445472Z" modified="2024-08-20T21:29:43.445479Z" visited="2024-08-20T21:29:43.445473Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;xreader %u&apos;" modified="2024-08-20T21:29:43.445476Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/Interner%20gemeinsamer%20Speicher/WhatsApp/Media/WhatsApp%20Images/IMG-20240814-WA0000.jpg" added="2024-08-20T21:30:11.770803Z" modified="2024-08-20T21:30:15.104270Z" visited="2024-08-20T21:30:11.770806Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-20T21:30:15.104258Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/Interner%20gemeinsamer%20Speicher/WhatsApp/Media/WhatsApp%20Images/IMG-20240814-WA0001.jpg" added="2024-08-20T21:30:13.218819Z" modified="2024-08-20T21:30:14.929627Z" visited="2024-08-20T21:30:13.218822Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-20T21:30:14.929624Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/Interner%20gemeinsamer%20Speicher/WhatsApp/Media/WhatsApp%20Images/IMG-20231115-WA0001.jpg" added="2024-08-20T21:30:14.174704Z" modified="2024-08-20T21:30:14.174710Z" visited="2024-08-20T21:30:14.174705Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-20T21:30:14.174708Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/Interner%20gemeinsamer%20Speicher/WhatsApp/Media/WhatsApp%20Images/IMG-20240725-WA0010.jpg" added="2024-08-20T21:30:15.519461Z" modified="2024-08-20T21:30:15.519469Z" visited="2024-08-20T21:30:15.519462Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-20T21:30:15.519466Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/Interner%20gemeinsamer%20Speicher/WhatsApp/Media/WhatsApp%20Images/IMG-20240723-WA0005.jpeg" added="2024-08-20T21:30:16.432481Z" modified="2024-08-20T21:30:16.432488Z" visited="2024-08-20T21:30:16.432482Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-20T21:30:16.432485Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/Interner%20gemeinsamer%20Speicher/WhatsApp/Media/WhatsApp%20Images/IMG-20231210-WA0001.jpg" added="2024-08-20T21:30:21.384405Z" modified="2024-08-20T21:30:22.537027Z" visited="2024-08-20T21:30:21.384406Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-20T21:30:22.537025Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/Interner%20gemeinsamer%20Speicher/WhatsApp/Media/WhatsApp%20Images/IMG-20240618-WA0001.jpg" added="2024-08-20T21:30:22.125476Z" modified="2024-08-20T21:30:22.125485Z" visited="2024-08-20T21:30:22.125478Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-20T21:30:22.125482Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/Interner%20gemeinsamer%20Speicher/WhatsApp/Media/WhatsApp%20Images/Sent/IMG-20240730-WA0000.jpg" added="2024-08-20T21:30:30.903426Z" modified="2024-08-20T21:30:30.903436Z" visited="2024-08-20T21:30:30.903428Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-20T21:30:30.903433Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM439-QRD__SN%3A61BE7421_c641c88a0206/Interner%20gemeinsamer%20Speicher/PTT-20240627-WA0000.opus" added="2024-08-20T21:31:16.729959Z" modified="2024-08-20T21:31:16.729967Z" visited="2024-08-20T21:31:16.729960Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/ogg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;celluloid %U&apos;" modified="2024-08-20T21:31:16.729963Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external" added="2024-08-20T21:38:56.763895Z" modified="2024-08-22T10:08:09.292054Z" visited="2024-08-20T21:38:56.763901Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:groups>
+          <bookmark:group>baobab</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="baobab" exec="&apos;baobab %u&apos;" modified="2024-08-22T10:08:09.292050Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/tmp" added="2024-08-20T21:40:51.266236Z" modified="2024-08-22T10:39:47.769883Z" visited="2024-08-20T21:40:51.266237Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2024-08-20T21:40:51.266239Z" count="1"/>
+          <bookmark:application name="Screenshot" exec="&apos;gnome-screenshot %u&apos;" modified="2024-08-22T10:39:47.769874Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/tmp/kor.txt" added="2024-08-21T10:40:07.220022Z" modified="2024-08-21T10:40:07.220029Z" visited="2024-08-21T10:40:07.220023Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2024-08-21T10:40:07.220026Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/tmp/m/Love%20is%20just%20a%20four%20letter%20word.m4a" added="2024-08-21T13:28:26.169590Z" modified="2024-08-21T13:39:03.738427Z" visited="2024-08-21T13:28:26.169591Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;env UBUNTU_MENUPROXY=0 GDK_BACKEND=x11 audacity %F&apos;" modified="2024-08-21T13:35:00.377838Z" count="2"/>
+          <bookmark:application name="audacity" exec="&apos;audacity %u&apos;" modified="2024-08-21T13:39:03.738423Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/.cache/.fr-eKTj6q/vecteezy_classic-dark-brown-flower-and-cream-seamless-pattern-for_3788608.jpg" added="2024-08-21T13:32:49.980282Z" modified="2024-08-21T13:32:49.980298Z" visited="2024-08-21T13:32:49.980284Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2024-08-21T13:32:49.980293Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/bg.jpg" added="2024-08-21T13:34:13.169134Z" modified="2024-08-21T13:34:15.554417Z" visited="2024-08-21T13:34:13.169140Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2024-08-21T13:34:15.554416Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/tmp/m/Love%20is%20just%20a%20four%20letter%20word%20Loop%20Mono.mp3" added="2024-08-21T13:53:08.260747Z" modified="2024-08-21T14:53:55.885949Z" visited="2024-08-21T13:53:08.260748Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="audacity" exec="&apos;audacity %u&apos;" modified="2024-08-21T14:53:55.885947Z" count="2"/>
+          <bookmark:application name="nemo" exec="&apos;celluloid %U&apos;" modified="2024-08-21T13:53:22.583027Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/tmp/m/Love%20is%20just%20a%20four%20letter%20word%20Loop.wav" added="2024-08-21T14:04:03.719023Z" modified="2024-08-21T14:05:45.983653Z" visited="2024-08-21T14:04:03.719024Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="audacity" exec="&apos;audacity %u&apos;" modified="2024-08-21T14:04:03.719026Z" count="1"/>
+          <bookmark:application name="blueman-sendto" exec="&apos;blueman-sendto %u&apos;" modified="2024-08-21T14:05:45.983651Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/permanent/bg.jpg" added="2024-08-21T19:21:42.864213Z" modified="2024-08-21T19:21:50.188209Z" visited="2024-08-21T19:21:42.864214Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-21T19:21:42.864219Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;gimp-2.10 %U&apos;" modified="2024-08-21T19:21:47.796278Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2024-08-21T19:21:50.188206Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/tmp/m/Love%20is%20just%20a%20four%20letter%20word.aup" added="2024-08-22T06:49:56.927079Z" modified="2024-08-22T06:49:56.927096Z" visited="2024-08-22T06:49:56.927082Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-audacity-project"/>
+        <bookmark:applications>
+          <bookmark:application name="audacity" exec="&apos;audacity %u&apos;" modified="2024-08-22T06:49:56.927089Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/BG.JPG" added="2024-08-22T06:50:39.402934Z" modified="2024-08-22T06:50:41.761785Z" visited="2024-08-22T06:50:39.402935Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gimp-2.10 %U&apos;" modified="2024-08-22T06:50:39.402938Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2024-08-22T06:50:41.761779Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/BG.02.JPG" added="2024-08-22T06:51:04.126422Z" modified="2024-08-22T06:51:06.673662Z" visited="2024-08-22T06:51:04.126425Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2024-08-22T06:51:06.673657Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/Downloads/Documents19Jul2024.zip" added="2024-08-22T09:55:39.071769Z" modified="2024-08-22T09:56:02.731243Z" visited="2024-08-22T09:55:39.071771Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-08-22T09:55:56.219019Z" count="2"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-08-22T09:56:02.731234Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/.cache/.fr-eJlJdD/Documents/Christus/Schriften/Des%20Herrn%20wunderbare%20F%C3%BChrung%20in%20Warschau" added="2024-08-22T10:03:13.138760Z" modified="2024-08-22T10:03:15.454718Z" visited="2024-08-22T10:03:13.138761Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-22T10:03:15.454715Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/BANK.TXT" added="2024-08-22T10:32:10.326487Z" modified="2024-08-22T10:32:10.342732Z" visited="2024-08-22T10:32:10.326489Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2024-08-22T10:32:10.342728Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/Downloads/27519193-PLDWYUES.pdf" added="2024-08-22T10:35:25.331012Z" modified="2024-08-22T14:15:43.264904Z" visited="2024-08-22T10:35:25.331015Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-08-22T10:35:26.402129Z" count="2"/>
+          <bookmark:application name="nemo" exec="&apos;xreader %U&apos;" modified="2024-08-22T13:57:52.716537Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;xreader %u&apos;" modified="2024-08-22T13:57:53.353772Z" count="1"/>
+          <bookmark:application name="blueman-sendto" exec="&apos;blueman-sendto %u&apos;" modified="2024-08-22T14:15:43.264901Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/tmp/Screenshot%20from%202024-08-22%2012-39-32.png" added="2024-08-22T10:39:50.183095Z" modified="2024-08-22T10:39:50.183115Z" visited="2024-08-22T10:39:50.183099Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;xviewer %u&apos;" modified="2024-08-22T10:39:50.183109Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/Downloads/chess_pieces_by_atskaheart_d3fvk7i.png" added="2024-08-22T16:26:04.526328Z" modified="2024-08-22T16:26:04.526336Z" visited="2024-08-22T16:26:04.526330Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-22T16:26:04.526333Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/PROJECT/index.html" added="2024-08-22T17:02:55.183871Z" modified="2024-08-22T17:02:57.799336Z" visited="2024-08-22T17:02:55.183872Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2024-08-22T17:02:57.799333Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/PROJECT/draw.js" added="2024-08-22T17:03:09.452031Z" modified="2024-08-23T11:37:58.353598Z" visited="2024-08-22T17:03:09.452032Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2024-08-23T11:37:58.353594Z" count="31"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/PROJECT/src/style.css" added="2024-08-22T17:03:43.385873Z" modified="2024-08-22T17:03:43.768588Z" visited="2024-08-22T17:03:43.385874Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-08-22T17:03:43.385880Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-08-22T17:03:43.768586Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/K%C3%BCndigung%20best%C3%A4tigt.eml" added="2024-08-23T11:51:15.704618Z" modified="2024-08-23T11:51:15.704635Z" visited="2024-08-23T11:51:15.704627Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="message/rfc822"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-08-23T11:51:15.704631Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/K%C3%BCndigung%20best%C3%A4tigt(1).eml" added="2024-08-23T11:52:23.312917Z" modified="2024-08-23T11:52:23.312926Z" visited="2024-08-23T11:52:23.312919Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="message/rfc822"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-08-23T11:52:23.312922Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/K%C3%BCndigung%20best%C3%A4tigt(2).eml" added="2024-08-23T11:52:33.429636Z" modified="2024-08-23T11:52:33.429644Z" visited="2024-08-23T11:52:33.429637Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="message/rfc822"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-08-23T11:52:33.429640Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/K%C3%BCndigung%20best%C3%A4tigt-1.eml" added="2024-08-23T11:53:36.099315Z" modified="2024-08-23T11:53:36.099323Z" visited="2024-08-23T11:53:36.099316Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2024-08-23T11:53:36.099320Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/K%C3%BCndigung%20best%C3%A4tigt-2.eml" added="2024-08-23T11:53:42.262368Z" modified="2024-08-23T11:53:42.262385Z" visited="2024-08-23T11:53:42.262369Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2024-08-23T11:53:42.262382Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/tmp/Documents19Jul2024.zip" added="2024-08-23T11:54:31.600928Z" modified="2024-08-23T11:54:31.600933Z" visited="2024-08-23T11:54:31.600928Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-08-23T11:54:31.600930Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/tmp/Documents/Buerokratie/Arbeitsstelle/Bewerbung/Lebenslauf/2024.de.cropped.pdf" added="2024-08-23T11:56:02.838258Z" modified="2024-08-23T11:56:03.616827Z" visited="2024-08-23T11:56:02.838262Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;xreader %U&apos;" modified="2024-08-23T11:56:02.838266Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;xreader %u&apos;" modified="2024-08-23T11:56:03.616825Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/Documents/Buerokratie/Personentransport/KontoauszugJuli2024.pdf" added="2024-08-23T12:01:24.912810Z" modified="2024-08-23T12:01:25.374374Z" visited="2024-08-23T12:01:24.912812Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-08-23T12:01:25.374361Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/Documents/Buerokratie/Personentransport/Mohnheim.txt" added="2024-08-23T12:02:31.260021Z" modified="2024-08-23T12:04:10.539286Z" visited="2024-08-23T12:02:31.260022Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2024-08-23T12:04:10.539283Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/Documents/Buerokratie/Personentransport/Deutschlandticket.png" added="2024-08-23T12:04:15.041874Z" modified="2024-08-23T12:04:15.041883Z" visited="2024-08-23T12:04:15.041876Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-23T12:04:15.041880Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/Documents/Buerokratie/Personentransport/BlockiertesDTicketG%C3%BCltigkeitNovember" added="2024-08-23T12:04:22.216836Z" modified="2024-08-23T12:04:22.216845Z" visited="2024-08-23T12:04:22.216837Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-23T12:04:22.216841Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/Schweiz/2024-Okt-Assura-Fragebogen-Zustellungsnachweis.txt" added="2024-08-23T12:17:30.843505Z" modified="2024-08-23T12:17:30.843514Z" visited="2024-08-23T12:17:30.843506Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2024-08-23T12:17:30.843510Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/Schweiz/Assura-Antrag.pdf" added="2024-08-23T12:18:00.719748Z" modified="2024-08-23T12:18:01.464580Z" visited="2024-08-23T12:18:00.719751Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;xreader %U&apos;" modified="2024-08-23T12:18:00.719755Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;xreader %u&apos;" modified="2024-08-23T12:18:01.464576Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/Schweiz/K%C3%BCndigung%20Assura.pdf" added="2024-08-23T12:18:36.770768Z" modified="2024-08-23T12:18:36.770774Z" visited="2024-08-23T12:18:36.770769Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;xreader %u&apos;" modified="2024-08-23T12:18:36.770771Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/Schweiz/SVA%20Beitragspflicht%202.pdf" added="2024-08-23T12:18:53.007930Z" modified="2024-08-23T12:18:53.007936Z" visited="2024-08-23T12:18:53.007931Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;xreader %u&apos;" modified="2024-08-23T12:18:53.007933Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/Schweiz/SVA-2024-A.jpg" added="2024-08-23T12:20:02.451283Z" modified="2024-08-23T12:20:02.451292Z" visited="2024-08-23T12:20:02.451285Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-23T12:20:02.451288Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/Schweiz/Versicherungsbest%C3%A4tigung.pdf" added="2024-08-23T12:20:45.785956Z" modified="2024-08-23T12:20:45.785963Z" visited="2024-08-23T12:20:45.785957Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;xreader %u&apos;" modified="2024-08-23T12:20:45.785960Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/Schweiz/Versicherungspolice.pdf" added="2024-08-23T12:21:18.358670Z" modified="2024-08-23T12:21:18.358675Z" visited="2024-08-23T12:21:18.358671Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;xreader %u&apos;" modified="2024-08-23T12:21:18.358673Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/Schweiz/2023-Nov-Assura-K%C3%BCndigung.pdf" added="2024-08-23T12:21:33.896435Z" modified="2024-08-23T12:21:33.896442Z" visited="2024-08-23T12:21:33.896436Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;xreader %u&apos;" modified="2024-08-23T12:21:33.896439Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/Schweiz/2024-Jul-28-/photo_1_2024-08-23_14-15-47.jpg" added="2024-08-23T12:22:20.523867Z" modified="2024-08-23T12:22:20.523874Z" visited="2024-08-23T12:22:20.523868Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-23T12:22:20.523871Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/Schweiz/2024-Jul-28-/photo_2_2024-08-23_14-15-47.jpg" added="2024-08-23T12:22:30.472958Z" modified="2024-08-23T12:22:30.472966Z" visited="2024-08-23T12:22:30.472959Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-23T12:22:30.472963Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/Schweiz/2024-Jul-28-/photo_3_2024-08-23_14-15-47.jpg" added="2024-08-23T12:22:38.968344Z" modified="2024-08-23T12:22:38.968351Z" visited="2024-08-23T12:22:38.968345Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-23T12:22:38.968348Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/Schweiz/2024-Aug-Ebnat-Kappel.png" added="2024-08-23T12:25:31.253417Z" modified="2024-08-23T12:25:49.316337Z" visited="2024-08-23T12:25:31.253419Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2024-08-23T12:25:49.316334Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/CH/SVA%20Beitragspflicht.zip/SVA.pdf" added="2024-08-23T12:26:25.220456Z" modified="2024-08-23T12:26:25.220462Z" visited="2024-08-23T12:26:25.220457Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;xreader %u&apos;" modified="2024-08-23T12:26:25.220459Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/CH/2023-Jun-SVA/2023-Jun-SVA.zip" added="2024-08-23T12:26:50.775683Z" modified="2024-08-23T12:26:50.775700Z" visited="2024-08-23T12:26:50.775686Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-08-23T12:26:50.775691Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/CH/2023-Jun-SVA.zip" added="2024-08-23T12:27:35.172982Z" modified="2024-08-23T12:27:35.501345Z" visited="2024-08-23T12:27:35.172984Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;file-roller %U&apos;" modified="2024-08-23T12:27:35.172990Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-08-23T12:27:35.501343Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/.cache/.fr-kj8YLH/SVA%20scan.pdf" added="2024-08-23T12:27:42.803560Z" modified="2024-08-23T12:27:42.803566Z" visited="2024-08-23T12:27:42.803561Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;xreader %u&apos;" modified="2024-08-23T12:27:42.803563Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/.cache/.fr-GKCZYF/SVA.pdf" added="2024-08-23T12:27:46.834487Z" modified="2024-08-23T12:27:46.834493Z" visited="2024-08-23T12:27:46.834488Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;xreader %u&apos;" modified="2024-08-23T12:27:46.834490Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/CH/2023-Jul-SVA-Beitragspflicht%202.pdf" added="2024-08-23T12:28:00.247271Z" modified="2024-08-23T12:28:00.247279Z" visited="2024-08-23T12:28:00.247272Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;xreader %u&apos;" modified="2024-08-23T12:28:00.247275Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/CH/2024-Jul-Abgeschickt-Am-Tage-28/2024-Jul-Abgeschickt-Am-Tage-28.zip" added="2024-08-23T12:28:57.737253Z" modified="2024-08-23T12:28:57.737272Z" visited="2024-08-23T12:28:57.737256Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-08-23T12:28:57.737262Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/CH/2024-Jul-Abgeschickt-Am-Tage-28.zip" added="2024-08-23T12:29:05.261472Z" modified="2024-08-23T12:29:05.261478Z" visited="2024-08-23T12:29:05.261472Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-08-23T12:29:05.261475Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/.cache/.fr-KcPYOz/Bankdetails.jpg" added="2024-08-23T12:29:09.273509Z" modified="2024-08-23T12:29:09.273516Z" visited="2024-08-23T12:29:09.273510Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-23T12:29:09.273513Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/.cache/.fr-GGDYAB/Versicherungsbest%C3%A4tigung.02.jpg" added="2024-08-23T12:29:14.514879Z" modified="2024-08-23T12:29:14.514885Z" visited="2024-08-23T12:29:14.514880Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-23T12:29:14.514882Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/.cache/.fr-GRiLiV/Versicherungsbest%C3%A4tigung.jpg" added="2024-08-23T12:29:22.777802Z" modified="2024-08-23T12:29:22.777809Z" visited="2024-08-23T12:29:22.777803Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-23T12:29:22.777806Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/CH/Briefe%20Ebnat-Kappel%20und%20SVA.zip" added="2024-08-23T12:34:08.033563Z" modified="2024-08-23T12:34:20.813059Z" visited="2024-08-23T12:34:08.033564Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-08-23T12:34:08.543597Z" count="2"/>
+          <bookmark:application name="nemo" exec="&apos;file-roller %U&apos;" modified="2024-08-23T12:34:20.456719Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-08-23T12:34:20.813056Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/.cache/.fr-89VWdV/Ebnat-Kappel%20Seite%201.jpg" added="2024-08-23T12:34:24.189101Z" modified="2024-08-23T12:34:24.189109Z" visited="2024-08-23T12:34:24.189102Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-23T12:34:24.189105Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/.cache/.fr-tw4M9E/SVA%20Seite%201.jpg" added="2024-08-23T12:34:28.028029Z" modified="2024-08-23T12:34:28.028264Z" visited="2024-08-23T12:34:28.028031Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-23T12:34:28.028036Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/CH/2024-Jun.zip" added="2024-08-23T12:34:41.189797Z" modified="2024-08-23T12:35:00.836357Z" visited="2024-08-23T12:34:41.189800Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;file-roller %U&apos;" modified="2024-08-23T12:35:00.473956Z" count="2"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-08-23T12:35:00.836355Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/.cache/.fr-b4Mn20/Ebnat-Kappel%20Seite%201.jpg" added="2024-08-23T12:34:45.266389Z" modified="2024-08-23T12:34:45.266396Z" visited="2024-08-23T12:34:45.266390Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-23T12:34:45.266393Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/.cache/.fr-MXEUTy/Ebnat-Kappel%20Seite%202.jpg" added="2024-08-23T12:34:50.403514Z" modified="2024-08-23T12:34:50.403520Z" visited="2024-08-23T12:34:50.403515Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-23T12:34:50.403518Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/CH/2024-Jun-Ebnat-Kappel-Versicherungsbest%C3%A4tigung.pdf" added="2024-08-23T12:34:55.487622Z" modified="2024-08-23T12:34:55.487629Z" visited="2024-08-23T12:34:55.487623Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;xreader %u&apos;" modified="2024-08-23T12:34:55.487626Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/.cache/.fr-gwpiVU/SVA%20Seite%202.jpg" added="2024-08-23T12:35:02.593409Z" modified="2024-08-23T12:35:02.593416Z" visited="2024-08-23T12:35:02.593411Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-23T12:35:02.593413Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/.cache/.fr-OBxZAE/SVA%20Seite%201.jpg" added="2024-08-23T12:35:05.676470Z" modified="2024-08-23T12:35:05.676478Z" visited="2024-08-23T12:35:05.676471Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-23T12:35:05.676474Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/CH/2024-Jun-SVA-A.jpg" added="2024-08-23T12:35:09.618614Z" modified="2024-08-23T12:35:09.618632Z" visited="2024-08-23T12:35:09.618617Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;xviewer %U&apos;" modified="2024-08-23T12:35:09.618624Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/CH/2024-06JUN-SVA-A.jpg" added="2024-08-23T12:38:14.473568Z" modified="2024-08-23T12:38:18.942118Z" visited="2024-08-23T12:38:14.473571Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gimp-2.10 %U&apos;" modified="2024-08-23T12:38:14.473577Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2024-08-23T12:38:18.942109Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/CH/2024-06JUN-SVA-B.jpg" added="2024-08-23T12:38:14.473616Z" modified="2024-08-23T12:38:21.346792Z" visited="2024-08-23T12:38:14.473618Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gimp-2.10 %U&apos;" modified="2024-08-23T12:38:14.473623Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2024-08-23T12:38:21.346790Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/CH/2024-06JUN-SVA.pdf" added="2024-08-23T12:38:53.143801Z" modified="2024-08-23T12:39:12.055510Z" visited="2024-08-23T12:38:53.143803Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2024-08-23T12:38:59.856458Z" count="2"/>
+          <bookmark:application name="Document Viewer" exec="&apos;xreader %u&apos;" modified="2024-08-23T12:39:12.055507Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/CH/2024-06JUN-Ebnat-Kappel-Versicherungsbest%C3%A4tigungsformular.pdf" added="2024-08-23T12:40:03.143398Z" modified="2024-08-23T13:31:59.033887Z" visited="2024-08-23T12:40:03.143399Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;xreader %u&apos;" modified="2024-08-23T13:31:59.033884Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/CH/2024-08AUG-Ebnat-Kappel.png" added="2024-08-23T12:41:18.074429Z" modified="2024-08-23T12:41:18.877179Z" visited="2024-08-23T12:41:18.074432Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;xviewer %U&apos;" modified="2024-08-23T12:41:18.074438Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-23T12:41:18.877176Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/CH/2024-08AUG-Ebnat-Kappel-Forderung-Krankenversicherungsnachweis.png" added="2024-08-23T12:41:34.807337Z" modified="2024-08-23T13:30:21.857527Z" visited="2024-08-23T12:41:34.807340Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;xviewer %U&apos;" modified="2024-08-23T13:18:47.872927Z" count="4"/>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-23T12:41:35.551427Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-08-23T13:30:21.857514Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/CH/2024-07JUL-Abgeschickt-Am-Tage-28.zip" added="2024-08-23T12:42:00.362038Z" modified="2024-08-23T12:52:41.145557Z" visited="2024-08-23T12:42:00.362040Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;file-roller %U&apos;" modified="2024-08-23T12:52:41.145547Z" count="2"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-08-23T12:42:00.695420Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/CH/2024-02FEB-Assura-Antrag.pdf" added="2024-08-23T12:52:47.437803Z" modified="2024-08-23T13:19:47.272425Z" visited="2024-08-23T12:52:47.437806Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;xreader %U&apos;" modified="2024-08-23T12:52:47.437810Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;xreader %u&apos;" modified="2024-08-23T13:19:47.272422Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMAMENT/DOCUMENTS/BUEROKRATIE/Sozialversicherung/CH/2023-02FEB-Assura-Versicherungspolice.pdf" added="2024-08-23T12:55:15.768851Z" modified="2024-08-23T12:55:15.768857Z" visited="2024-08-23T12:55:15.768852Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;xreader %u&apos;" modified="2024-08-23T12:55:15.768854Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/tmp/Anhang-A.png" added="2024-08-23T13:33:50.409009Z" modified="2024-08-23T13:33:50.409019Z" visited="2024-08-23T13:33:50.409011Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-08-23T13:33:50.409015Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/tmp/Anhang-B.pdf" added="2024-08-23T13:33:50.409034Z" modified="2024-08-23T13:33:50.409041Z" visited="2024-08-23T13:33:50.409034Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-08-23T13:33:50.409037Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PROJECT/chess.png" added="2024-08-23T19:13:39.371844Z" modified="2024-08-23T19:13:39.371851Z" visited="2024-08-23T19:13:39.371845Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2024-08-23T19:13:39.371848Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PROJECT/draw.js" added="2024-08-23T19:13:42.949849Z" modified="2024-08-23T19:13:42.949855Z" visited="2024-08-23T19:13:42.949850Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2024-08-23T19:13:42.949852Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PROJECT/index.html" added="2024-08-23T19:13:48.842014Z" modified="2024-08-23T19:13:48.842026Z" visited="2024-08-23T19:13:48.842016Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/telegram-desktop_telegram-desktop.desktop /snap/bin/telegram-desktop -- %u&apos;" modified="2024-08-23T19:13:48.842023Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PROJECT.zip" added="2024-08-23T19:14:14.547676Z" modified="2024-08-23T19:14:18.870398Z" visited="2024-08-23T19:14:14.547680Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-08-23T19:14:14.547684Z" count="1"/>
+          <bookmark:application name="snap.telegram-desktop" exec="&apos;gio open %u&apos;" modified="2024-08-23T19:14:18.835018Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-23T19:14:18.870395Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/Downloads/Simple-Web-Server-Windows-1.2.12-x64.zip" added="2024-08-23T19:35:01.921056Z" modified="2024-08-23T19:35:35.425946Z" visited="2024-08-23T19:35:01.921059Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-08-23T19:35:11.868968Z" count="2"/>
+          <bookmark:application name="snap.telegram-desktop" exec="&apos;gio open %u&apos;" modified="2024-08-23T19:35:35.404086Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-23T19:35:35.425945Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/Downloads/Simple-Web-Server-Windows-1.2.12-ia32.zip" added="2024-08-23T19:35:07.494963Z" modified="2024-08-23T19:35:35.425937Z" visited="2024-08-23T19:35:07.494964Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-08-23T19:35:17.290386Z" count="2"/>
+          <bookmark:application name="snap.telegram-desktop" exec="&apos;gio open %u&apos;" modified="2024-08-23T19:35:35.404076Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-23T19:35:35.425935Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMANENT/github-recovery-codes.txt" added="2024-08-23T21:54:04.060489Z" modified="2024-08-23T21:54:04.567812Z" visited="2024-08-23T21:54:04.060491Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-08-23T21:54:04.567807Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/PERMANENT/localsys/bin/schedule-mega-sync" added="2024-08-23T22:11:07.160221Z" modified="2024-08-23T22:12:52.846219Z" visited="2024-08-23T22:11:07.160222Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2024-08-23T22:12:52.846217Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/localsys/bin/lns" added="2024-08-23T22:18:08.226225Z" modified="2024-08-23T22:18:08.226231Z" visited="2024-08-23T22:18:08.226226Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2024-08-23T22:18:08.226229Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mbrandt/external/localsys/bin/schedule-mega-sync" added="2024-08-23T22:18:23.684537Z" modified="2024-08-23T22:18:41.570502Z" visited="2024-08-23T22:18:23.684538Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2024-08-23T22:18:41.570499Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

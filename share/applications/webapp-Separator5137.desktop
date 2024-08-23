@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=Separator
+Comment=Web App
+Exec=sh -c 'XAPP_FORCE_GTKWINDOW_ICON="mate-panel-separator" firefox --class WebApp-Separator5137 --profile /home/mbrandt/.local/share/ice/firefox/Separator5137 --no-remote "http://example.com"'
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=mate-panel-separator
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Separator5137
+StartupNotify=true
+X-WebApp-Browser=Firefox
+X-WebApp-URL=http://example.com
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=messenger
+Comment=Web App
+Exec=sh -c 'XAPP_FORCE_GTKWINDOW_ICON="/home/mbrandt/.local/share/ice/icons/messenger.png" firefox --class WebApp-messenger1237 --profile /home/mbrandt/.local/share/ice/firefox/messenger1237 --no-remote "http://messenger.com"'
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/mbrandt/.local/share/ice/icons/messenger.png
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-messenger1237
+StartupNotify=true
+X-WebApp-Browser=Firefox
+X-WebApp-URL=http://messenger.com
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true

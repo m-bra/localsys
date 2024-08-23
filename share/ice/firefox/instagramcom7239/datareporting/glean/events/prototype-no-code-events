@@ -1,0 +1,6 @@
+{"timestamp":169523587,"category":"browser.usage","name":"interaction","extra":{"widget_id":"key-close","flow_id":"{6e2b7909-2126-4a42-a45b-1d7624d951b7}","glean_timestamp":"1722593883919","source":"keyboard"},"execution_counter":2}
+{"timestamp":235076374,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1722659440220","glean.startup.date":"2024-08-03T06:30+02:00"},"execution_counter":3}
+{"timestamp":243945549,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1722668308936","glean.startup.date":"2024-08-03T08:58+02:00"},"execution_counter":4}
+{"timestamp":44384961,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1723836024025","glean.startup.date":"2024-08-16T21:20+02:00"},"execution_counter":5}
+{"timestamp":119697843,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1723911338674","glean.startup.date":"2024-08-17T19:15+03:00"},"execution_counter":6}
+{"timestamp":199708311,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1724446803579","glean.startup.date":"2024-08-23T23:00+02:00"},"execution_counter":7}

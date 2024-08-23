@@ -1,0 +1,6 @@
+{"timestamp":441524214,"category":"nimbus_events","name":"enrollment","extra":{"enrollment_id":"d9d28743-38fd-4846-a901-e0463907f3c5","experiment_type":"rollout","experiment":"serp-ad-telemetry-rollout","branch":"control"}}
+{"timestamp":441524222,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","experiment":"upgrade-spotlight-rollout","branch":"treatment","enrollment_id":"22a2f31d-3cb9-4a47-a340-1443f52900a7"}}
+{"timestamp":441524224,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"next-generation-accessibility-engine-powering-screen-readers","feature":"accessibilityCache","reason":"invalid-feature"}}
+{"timestamp":441524224,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"next-generation-accessibility-engine-powering-screen-readers-and-other-ats-copy","reason":"invalid-feature","feature":"accessibilityCache"}}
+{"timestamp":441553552,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","experiment":"next-generation-accessibility-engine-powering-screen-readers","feature":"accessibilityCache"}}
+{"timestamp":441553552,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","experiment":"next-generation-accessibility-engine-powering-screen-readers-and-other-ats-copy","feature":"accessibilityCache"}}

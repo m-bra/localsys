@@ -1,0 +1,4 @@
+#!/bin/bash
+
+~/.cargo/bin/rust-analyzer $@
+echo rust-analyzer $@ > ~/.local/var/local-rust-analyzer.log
