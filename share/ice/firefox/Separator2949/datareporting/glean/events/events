@@ -1,4 +1,0 @@
-{"timestamp":65102941,"category":"webcompatreporting","name":"reason_dropdown","extra":{"glean_timestamp":"1724312198562","setting":"required"}}
-{"timestamp":65103916,"category":"addons_manager","name":"manage","extra":{"method":"disable","addon_type":"extension","addon_id":"screenshots@mozilla.org","glean_timestamp":"1724312199537","source":"system-addon"}}
-{"timestamp":65228412,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1724312324034"}}
-{"timestamp":75309173,"category":"search.engine.default","name":"changed","extra":{"new_engine_id":"google-b-lm","change_source":"engine-update","new_submission_url":"https://www.google.com/search?client=firefox-b-lm&q=","new_display_name":"Google","new_load_path":"[app]google@search.mozilla.org","previous_engine_id":"google-b-lm","glean_timestamp":"1724322405204"}}

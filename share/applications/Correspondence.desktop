@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Correspondence
-Exec=nemo '/home/mbrandt/Desktop/!Correspondence'
-Comment=
-Terminal=false
-PrefersNonDefaultGPU=false
-Icon=cinnamon-panel-launcher
-Type=Application
