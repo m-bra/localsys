@@ -1,0 +1,11 @@
+#!/bin/bash
+
+mega-sync | grep Running > /dev/null
+laststatus="$?"
+test "${laststatus}" == "0" && {
+	exit 0
+}
+test "${laststatus}" != "0" && {
+	echo "[ERR(MEGA)]"
+	exit 1
+}

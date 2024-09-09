@@ -1,0 +1,13 @@
+#!/bin/bash
+
+is_true=false
+(dconf read /org/cinnamon/panels-autohide | grep true) && {
+	is_true=true
+}
+
+test "${is_true}" == "true" && {
+	dconf write /org/cinnamon/panels-autohide "['1:false', '2:false']"
+}
+test "${is_true}" == "false" && {
+	dconf write /org/cinnamon/panels-autohide "['1:true', '2:true']"
+}

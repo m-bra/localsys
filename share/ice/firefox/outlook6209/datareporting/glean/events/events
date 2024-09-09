@@ -1,4 +1,7 @@
-{"timestamp":199876417,"category":"webcompatreporting","name":"reason_dropdown","extra":{"glean_timestamp":"1724446971684","setting":"required"}}
-{"timestamp":199876892,"category":"nimbus_events","name":"enroll_failed","extra":{"reason":"feature-conflict","glean_timestamp":"1724446972159","experiment":"extensions-migration-in-import-wizard-116-rollout"}}
-{"timestamp":199877163,"category":"nimbus_events","name":"validation_failed","extra":{"glean_timestamp":"1724446972430","experiment":"add-an-image-to-pdf-with-alt-text-rollout","feature":"addAnImageInPDF","reason":"invalid-feature"}}
-{"timestamp":199877163,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1724446972430"}}
+{"timestamp":599058249,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required","glean_timestamp":"1725913079490"}}
+{"timestamp":599058776,"category":"nimbus_events","name":"enroll_failed","extra":{"experiment":"extensions-migration-in-import-wizard-116-rollout","reason":"feature-conflict","glean_timestamp":"1725913080018"}}
+{"timestamp":599059197,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"add-an-image-to-pdf-with-alt-text-rollout","glean_timestamp":"1725913080439","feature":"addAnImageInPDF","reason":"invalid-feature"}}
+{"timestamp":599059198,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1725913080440"}}
+{"timestamp":599087722,"category":"nimbus_events","name":"enroll_failed","extra":{"reason":"feature-conflict","glean_timestamp":"1725913108964","experiment":"extensions-migration-in-import-wizard-116-rollout"}}
+{"timestamp":599087817,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","glean_timestamp":"1725913109058","feature":"addAnImageInPDF","experiment":"add-an-image-to-pdf-with-alt-text-rollout"}}
+{"timestamp":599087817,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1725913109059"}}

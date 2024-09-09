@@ -1,1 +1,2 @@
 {"timestamp":264172289,"category":"browser.usage","name":"interaction","extra":{"widget_id":"key-close","flow_id":"{db8fdfeb-735a-4027-9846-0f2c2cb2b0cf}","glean_timestamp":"1724055811541","source":"keyboard"},"execution_counter":13}
+{"timestamp":449047455,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1724696144412","glean.startup.date":"2024-08-26T20:15+02:00"},"execution_counter":14}

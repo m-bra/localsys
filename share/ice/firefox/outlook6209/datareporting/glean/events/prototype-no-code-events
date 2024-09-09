@@ -1,1 +1,2 @@
-{"timestamp":199877259,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1724446972527","glean.startup.date":"2024-08-23T23:02+02:00"},"execution_counter":77}
+{"timestamp":577753349,"category":"browser.usage","name":"interaction","extra":{"flow_id":"{e7aeffec-542a-40c6-870c-b07c999e363d}","source":"keyboard","widget_id":"key-reload","glean_timestamp":"1725891771856"},"execution_counter":98}
+{"timestamp":599059416,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2024-09-09T22:18+02:00","glean_timestamp":"1725913080658"},"execution_counter":99}

@@ -1,4 +1,4 @@
 #!/bin/bash
 
 mega-sync
-at -f "${HOME}/external/localsys/schedule-mega-sync" now + 4 hours
+at -f "${HOME}/external/localsys/bin/schedule-mega-sync" now + 4 hours
