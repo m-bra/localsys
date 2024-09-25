@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WORKSPACE=$(cat ~/.local/var/code.subtree/workspace)
+WORKSPACE=$(cat ~/subsys/var/code.subtree/workspace)
 subtreepath=$(clipboard.out)
 realpath=$(realpath ${WORKSPACE}/${subtreepath})
 rm "${WORKSPACE}/${subtreepath}"

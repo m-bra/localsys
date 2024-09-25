@@ -1,4 +1,4 @@
 #!/bin/bash
 
-touch "~/.local/var/code.tab/${1}"
-code  "~/.local/var/code.tab/${1}"
+touch "~/subsys/var/code.tab/${1}"
+code  "~/subsys/var/code.tab/${1}"

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WORKSPACE=$(cat ~/.local/var/code.subtree/workspace)
+WORKSPACE=$(cat ~/subsys/var/code.subtree/workspace)
 path=$(clipboard.out)
 test -e "${WORKSPACE}/${path}" || {
 	echo "${WORKSPACE}/${path}" does not exist.

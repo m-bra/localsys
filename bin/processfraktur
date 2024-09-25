@@ -1,4 +1,5 @@
 sed -r 's/s([^a-zA-ZüÜöÖäÄ])/$\1/g' \
+	| sed -r 's/s$/$/g' \
     | sed -r 's/ch/à/g' \
     | sed -r 's/ck/á/g' \
     | sed -r 's/fi/é/g' \

@@ -1,11 +1,12 @@
 #!/bin/bash
 
-mega-sync | grep Running > /dev/null
-laststatus="$?"
-test "${laststatus}" == "0" && {
+null=/dev/null
+
+mega-sync > "/tmp/mega.out"
+cat "/tmp/mega.out" | grep Running > $null
+test "$?" == "0" && {
 	exit 0
-}
-test "${laststatus}" != "0" && {
-	echo "[ERR(MEGA)]"
+} || {
+	cat "/tmp/mega.out"
 	exit 1
 }

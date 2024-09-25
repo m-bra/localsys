@@ -1,3 +1,4 @@
 #!/bin/bash
 
-gnome-terminal --full-screen -- status.tray.print
+test -f ~/.local/var/status.tray.freeze && trash ~/.local/var/status.tray.freeze && exit
+touch ~/.local/var/status.tray.freeze

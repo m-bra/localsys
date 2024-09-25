@@ -1,6 +1,6 @@
 #!/bin/bash
 
-root="${HOME}/.local/"
+root="${HOME}/subsys/"
 var="${root}/var/clipboard.cycle/"
 
 test "${1}" == "" || test "${2}" == "" && {

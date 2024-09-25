@@ -1,3 +1,3 @@
 #!/bin/bash
 
-gpg -d ~/.local/var/github.token.crypt
+gpg -d ~/subsys/var/github.token.crypt

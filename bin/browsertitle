@@ -2,12 +2,12 @@
 if test "${1}" == "touch"  
 then
     shift
-    echo "<title> $@ </title>" > "${HOME}/.local/var/browsertitle/$@.html"
-    firefox "file://$(realpath ${HOME}/.local/var/browsertitle/$@.html)"
+    echo "<title> $@ </title>" > "${HOME}/subsys/var/browsertitle/$@.html"
+    firefox "file://$(realpath ${HOME}/subsys/var/browsertitle/$@.html)"
 elif test "${1}" == "rm"
 then
     shift
-    rm "${HOME}/.local/var/browsertitle/$@.html"
+    rm "${HOME}/subsys/var/browsertitle/$@.html"
 else
 	echo "Usage: $(basename ${0}) {touch|rm}"
 fi
