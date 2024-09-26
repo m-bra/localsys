@@ -1,6 +1,0 @@
-{"timestamp":2006356,"category":"fog.validation","name":"validate_early_event"}
-{"timestamp":2008292,"category":"nimbus_events","name":"unenrollment","extra":{"enrollment_id":"e3567b3d-5460-4bda-9d87-cd6c3cc680c4","reason":"pref-variable-missing","experiment":"extensions-migration-in-import-wizard-116-rollout","branch":"control"}}
-{"timestamp":2008533,"category":"nimbus_events","name":"enrollment","extra":{"enrollment_id":"8deff4ee-f445-4972-a241-be9dff4e3bb3","experiment_type":"rollout","experiment":"add-an-image-to-pdf-with-alt-text-rollout","branch":"control"}}
-{"timestamp":2008721,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","branch":"control","experiment":"extensions-migration-in-import-wizard-116-rollout","enrollment_id":"9da3a9f2-d6a7-461a-ab36-5208a8614648"}}
-{"timestamp":2008997,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"next-generation-accessibility-engine-powering-screen-readers","reason":"invalid-feature","feature":"accessibilityCache"}}
-{"timestamp":2036590,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","experiment":"next-generation-accessibility-engine-powering-screen-readers","feature":"accessibilityCache"}}

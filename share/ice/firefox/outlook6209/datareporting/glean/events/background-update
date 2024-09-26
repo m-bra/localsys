@@ -1,4 +1,0 @@
-{"timestamp":599058776,"category":"nimbus_events","name":"enroll_failed","extra":{"experiment":"extensions-migration-in-import-wizard-116-rollout","reason":"feature-conflict","glean_timestamp":"1725913080018"}}
-{"timestamp":599059197,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"add-an-image-to-pdf-with-alt-text-rollout","glean_timestamp":"1725913080439","feature":"addAnImageInPDF","reason":"invalid-feature"}}
-{"timestamp":599087722,"category":"nimbus_events","name":"enroll_failed","extra":{"reason":"feature-conflict","glean_timestamp":"1725913108964","experiment":"extensions-migration-in-import-wizard-116-rollout"}}
-{"timestamp":599087817,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","glean_timestamp":"1725913109058","feature":"addAnImageInPDF","experiment":"add-an-image-to-pdf-with-alt-text-rollout"}}

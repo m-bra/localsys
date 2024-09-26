@@ -1,4 +1,0 @@
-{"timestamp":449047405,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"add-an-image-to-pdf-with-alt-text-rollout","reason":"invalid-feature","feature":"addAnImageInPDF","glean_timestamp":"1724696144362"}}
-{"timestamp":449075870,"category":"nimbus_events","name":"enroll_failed","extra":{"reason":"feature-conflict","experiment":"encrypted-client-hello-fallback-mechanism","glean_timestamp":"1724696172827"}}
-{"timestamp":449075872,"category":"nimbus_events","name":"unenrollment","extra":{"glean_timestamp":"1724696172829","experiment":"ech-roll-out","reason":"recipe-not-seen","branch":"rollout"}}
-{"timestamp":449075886,"category":"nimbus_events","name":"validation_failed","extra":{"glean_timestamp":"1724696172843","experiment":"add-an-image-to-pdf-with-alt-text-rollout","feature":"addAnImageInPDF","reason":"invalid-feature"}}

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-path="$HOME/.local/bin/"
+path="$HOME/subsys/bin/"
 
 test -z "${3}" || {
 	path="${3}"

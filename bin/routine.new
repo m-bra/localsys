@@ -7,7 +7,7 @@ shift
 shift
 shift
 
-test "${path}" == "" && path="${HOME}/.local/bin/"
+test "${path}" == "" && path="${HOME}/subsys/bin/"
 
 echo "#!/bin/bash" > "${path}/${file}"
 chmod +x "${path}/${file}"

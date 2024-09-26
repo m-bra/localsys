@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Buchhaltung
-Exec=libreoffice /home/mbrandt/Documents/Buerokratie/Finanzen/Buchhaltung.html
-Comment=
-Terminal=false
-PrefersNonDefaultGPU=false
-Icon=gedit-icon
-Type=Application

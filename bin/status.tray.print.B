@@ -12,9 +12,9 @@ test "$1" == "oneline" && {
 		exit
 	}
 
-	gith_is_uploaded /singleuserhome/.local/ 1>/dev/null 2>&1
+	gith_is_uploaded /singleuserhome/subsys/ 1>/dev/null 2>&1
 	test "$?" != "0" && {
-		echo "git not uploaded at /singleuserhome/.local/"
+		echo "git not uploaded at /singleuserhome/subsys/"
 		exit
 	}
 
