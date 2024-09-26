@@ -28,10 +28,10 @@ test "$1" == "oneline" && {
 	mega-sync
 	echo
 
-	echo "GIT STATUS /singleuserhome/.local/"
+	echo "GIT STATUS /singleuserhome/subsys/"
 	echo "=========="
 	echo
-	pushd /singleuserhome/.local/
+	pushd /singleuserhome/subsys/
 	git status | (head ; echo ; echo "..." ; echo ; tail)
 	popd
 
