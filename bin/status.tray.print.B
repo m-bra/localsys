@@ -12,13 +12,14 @@ test "$1" == "oneline" && {
 		exit
 	}
 
-	gith_is_uploaded /singleuserhome/subsys/ 1>/dev/null 2>&1
+	d="/singleuserhome/subsys/"
+	gith_is_uploaded "${d}" 1>/dev/null 2>&1
 	test "$?" != "0" && {
-		echo "git not uploaded at /singleuserhome/subsys/"
+		echo "git not uploaded at ${d}"
 		exit
 	}
 
-	echo "[]"
+	cat "/singleuserhome/status.txt"
 	
 } || {
 	echo "MEGA-SYNC"
