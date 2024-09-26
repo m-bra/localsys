@@ -20,6 +20,8 @@ test "$1" == "oneline" && {
 	}
 
 	cat "/singleuserhome/status.txt"
+
+	exit
 	
 } || {
 	echo "MEGA-SYNC"
