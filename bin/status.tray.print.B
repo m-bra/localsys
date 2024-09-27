@@ -19,7 +19,7 @@ test "$1" == "oneline" && {
 		exit
 	}
 
-	cat "/singleuserhome/status.txt"
+	head -1 "/singleuserhome/status.txt" 
 
 	exit
 	
