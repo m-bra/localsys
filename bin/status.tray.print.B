@@ -22,10 +22,10 @@ test "$1" == "oneline" && {
 	d="/singleuserhome/JUNEAU/"
 	gith_is_uploaded "${d}" 1>/dev/null 2>&1
 	test "$?" != "0" && {
-		echo "git not uploaded at ${d}"
-		exit
+		juneau_status="J! "
 	}
 
+	printf "%s" "${juneau_status}"
 	head -1 "/singleuserhome/status.txt" 
 
 	exit
